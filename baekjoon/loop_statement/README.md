@@ -11,3 +11,4 @@ List of questions
 - [Receipt(25304)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/25304.md)
 - [Long Long Long int(25314)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/25314.md)
 - ⭐[Fast A+B(15552)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/15552.md)
+- [A+B - 7(11021)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/11021.md)
