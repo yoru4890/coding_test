@@ -11,3 +11,4 @@ List of questions
 - [Max Value(2562)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/2562.md)
 - [Put the Ball(10810)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/10810.md)
 - [Change the Ball(10813)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/10813.md)
+- [Assignment Check(5597)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/5597.md)
