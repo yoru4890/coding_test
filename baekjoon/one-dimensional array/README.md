@@ -1,3 +1,8 @@
 One Dimensional Array
 ====================
 Let's try using an array.
+
+List of questions
+------------------
+
+- [Counting(10807)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/10807.md)
