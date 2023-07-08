@@ -15,3 +15,9 @@ List of questions
 - [A+B - 8(11022)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/11022.md)
 - [Print Star - 1(2438)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/2438.md)
 - [A+B - 5(10952)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/10952.md)
+- ⭐[A+B - 4(10951)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/10951.md)
+
+The questions I got wrong
+---------------------
+
+- ⭐[A+B - 4(10951)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/10951.md)
