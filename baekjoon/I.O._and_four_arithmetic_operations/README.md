@@ -23,7 +23,7 @@ List of questions
 The questions I got wrong
 --------------
 
-- [A/B(1008)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/I.O._and_four_arithmetic_operations/1008.md)\
+- [A/B(1008)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/I.O._and_four_arithmetic_operations/1008.md)
 - [String_??!(10926)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/I.O._and_four_arithmetic_operations/10926.md)
 - [A+B+C(11382)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/I.O._and_four_arithmetic_operations/11382.md)
 - [Dog(10172)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/I.O._and_four_arithmetic_operations/10172.md)
