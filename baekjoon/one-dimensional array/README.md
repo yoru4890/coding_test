@@ -6,4 +6,4 @@ List of questions
 ------------------
 
 - [Counting(10807)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/10807.md)
-- [Number Less than X(10871)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/10871.md)
+- [Number less than X(10871)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/10871.md)
