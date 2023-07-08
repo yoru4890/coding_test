@@ -11,3 +11,4 @@ List of questions
 - [Leap Year(2753)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/conditional_statement/2753.md)
 - [Quadrant Picking(14681)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/conditional_statement/14681.md)
 - [Alarm Clock(2884)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/conditional_statement/2884.md)
+- [Oven Clock(2525)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/conditional_statement/2525.md)
