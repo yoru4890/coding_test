@@ -12,3 +12,4 @@ List of questions
 - [Put the Ball(10810)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/10810.md)
 - [Change the Ball(10813)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/10813.md)
 - [Assignment Check(5597)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/5597.md)
+- [Remainder(3052)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/one-dimensional%20array/3052.md)
