@@ -4,3 +4,5 @@ Let's solve some more difficult problems with the programming syntax we've been 
 
 List of questions
 -------------------
+
+- [Sprout(25083)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/25083.md)
