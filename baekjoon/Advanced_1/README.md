@@ -6,3 +6,4 @@ List of questions
 -------------------
 
 - [Sprout(25083)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/25083.md)
+- [King, Queen, Rook, Bishop, Knight, Pawn(3003)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/3003.md)
