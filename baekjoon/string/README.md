@@ -15,3 +15,9 @@ List of questions
 - ⭐[Number of Words(1152)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/1152.md)
 - [Constant(2908)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/2908.md)
 - [Dial(5622)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/5622.md)
+- ⭐[Output As Is(11718)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/11718.md)
+
+The questions I got wrong
+-------------------
+
+- ⭐[Output As Is(11718)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/11718.md)
