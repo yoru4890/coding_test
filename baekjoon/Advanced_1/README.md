@@ -12,3 +12,4 @@ List of questions
 - [Word Study(1157)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/1157.md)
 - ⭐⭐[Croatian Alphabet(2941)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/2941.md)
 - [Group Word Check(1316)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/1316.md)
+- [What's your rating?(25206)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/25206.md)
