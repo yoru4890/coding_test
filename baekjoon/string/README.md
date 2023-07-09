@@ -11,3 +11,4 @@ List of questions
 - [Ascii Code(11654)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/11654.md)
 - [Sum of Numbers(11720)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/11720.md)
 - [Find the Alphabet(10809)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/10809.md)
+- [Repeat String(2675)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/2675.md)
