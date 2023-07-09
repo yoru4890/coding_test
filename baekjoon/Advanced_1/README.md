@@ -9,3 +9,4 @@ List of questions
 - [King, Queen, Rook, Bishop, Knight, Pawn(3003)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/3003.md)
 - [Print Star - 7(2444)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/2444.md)
 - [Palindrome(10988)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/10988.md)
+- [Word Study(1157)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/Advanced_1/1157.md)
