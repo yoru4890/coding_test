@@ -9,3 +9,4 @@ List of questions
 - [Measure Word Length(2743)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/2743.md)
 - [String(9086)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/9086.md)
 - [Ascii Code(11654)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/11654.md)
+- [Sum of Numbers(11720)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/string/11720.md)
