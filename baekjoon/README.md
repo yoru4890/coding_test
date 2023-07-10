@@ -11,6 +11,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 4. [one-dimensional array(0/10)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/one-dimensional%20array)
 5. [string(1/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/string)
 6. [Advanced_1(0/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/Advanced_1)
+7. [two_dimensional_array(0/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_dimensional_array)
 
 Important questions
 --------------
