@@ -13,6 +13,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 6. [advanced_1(0/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/Advanced_1)
 7. [two_dimensional_array(0/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_dimensional_array)
 8. [general_math_1(2/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/general_math_1)
+9. [factors_multiples_decimals(0/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/factors_multiples_decimals)
 
 Important questions
 --------------
