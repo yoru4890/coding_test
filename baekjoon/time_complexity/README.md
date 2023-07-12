@@ -4,3 +4,5 @@ It is very difficult to predict the exact execution time of a program. However, 
 
 List of questions
 -----------
+
+- [Algorithm Lesson - Running Time of Algorithm 1(24262)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24262.md)
