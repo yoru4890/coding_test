@@ -12,6 +12,7 @@ List of questions
 - [Land(9063)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_rectangles_triangles/9063.md)
 - [Memorize Triangle(10101)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_rectangles_triangles/10101.md)
 - [Triangle and Three Sides(5073)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_rectangles_triangles/5073.md)
+- [Three Sticks(14215)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_rectangles_triangles/14215.md)
 
 The questions I got wrong
 
