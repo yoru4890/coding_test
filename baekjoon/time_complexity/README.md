@@ -10,3 +10,10 @@ List of questions
 - [Algorithm Lesson - Running Time of Algorithm 3(24264)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24264.md)
 - [Algorithm Lesson - Running Time of Algorithm 4(24265)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24265.md)
 - [Algorithm Lesson - Running Time of Algorithm 5(24266)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24266.md)
+- ⭐⭐⭐[Algorithm Lesson - Running Time of Algorithm 6(24267)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24267.md)
+
+
+The questions I got wrong
+-------------------
+
+- ⭐⭐⭐[Algorithm Lesson - Running Time of Algorithm 6(24267)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24267.md)
