@@ -14,6 +14,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 7. [two_dimensional_array(0/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_dimensional_array)
 8. [general_math_1(2/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/general_math_1)
 9. [factors_multiples_decimals(0/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/factors_multiples_decimals)
+10. [geometry_rectangles_triangles(2/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/geometry_rectangles_triangles)
 
 Important questions
 --------------
@@ -27,3 +28,4 @@ Important questions
 - ⭐⭐[Decimal Conversino - 2(11005)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/general_math_1/11005.md)
 - ⭐[Center Shift Algorithm(2903)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/general_math_1/2903.md)
 - ⭐⭐[Snail Tree(2869)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/general_math_1/2869.md)
+- ⭐[Pyramid(15894)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_rectangles_triangles/15894.md)
