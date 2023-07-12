@@ -15,6 +15,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 8. [general_math_1(2/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/general_math_1)
 9. [factors_multiples_decimals(0/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/factors_multiples_decimals)
 10. [geometry_rectangles_triangles(2/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/geometry_rectangles_triangles)
+11. [time_complexity(2/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/time_complexity)
 
 Important questions
 --------------
@@ -29,3 +30,5 @@ Important questions
 - ⭐[Center Shift Algorithm(2903)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/general_math_1/2903.md)
 - ⭐⭐[Snail Tree(2869)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/general_math_1/2869.md)
 - ⭐[Pyramid(15894)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_rectangles_triangles/15894.md)
+- ⭐⭐⭐[Algorithm Lesson - Running Time of Algorithm 6(24267)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24267.md)
+- ⭐⭐[Algorithms Lesson - Asymptotic Notation 1(24313)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24313.md)
