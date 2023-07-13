@@ -16,6 +16,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 9. [factors_multiples_decimals(0/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/factors_multiples_decimals)
 10. [geometry_rectangles_triangles(2/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/geometry_rectangles_triangles)
 11. [time_complexity(2/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/time_complexity)
+12. [brute_force(1/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/brute_force)
 
 Important questions
 --------------
@@ -32,3 +33,5 @@ Important questions
 - ⭐[Pyramid(15894)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_rectangles_triangles/15894.md)
 - ⭐⭐⭐[Algorithm Lesson - Running Time of Algorithm 6(24267)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24267.md)
 - ⭐⭐[Algorithms Lesson - Asymptotic Notation 1(24313)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24313.md)
+- ⭐⭐[System of Linear Equations(19532)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/brute_force/19532.md)
+- 🌟[Repaint the Chessboard(1018)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/brute_force/1018.md)
