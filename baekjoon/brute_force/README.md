@@ -6,3 +6,4 @@ List of questions
 --------------
 
 - [Blackjack(2798)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/brute_force/2798.md)
+- [Decomposition(2231)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/brute_force/2231.md)
