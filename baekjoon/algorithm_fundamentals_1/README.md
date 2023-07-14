@@ -7,3 +7,5 @@ Algorithm Fundamentals 1
 
 List of questions
 ------------
+
+- [Stack(10828)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10828.md)
