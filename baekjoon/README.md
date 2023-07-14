@@ -18,6 +18,12 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 11. [time_complexity(2/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/time_complexity)
 12. [brute_force(1/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/brute_force)
 13. [sort(4/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/sort)
+14. [set_and_map(~/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/set_and_map)
+
+Algorithm Fundamentals and Intermediate
+--------------------
+1. [algorithm_fundamentals_1(~/69)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_1)
+
 
 Important questions (⭐<🌟)
 --------------
