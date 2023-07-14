@@ -17,9 +17,13 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 10. [geometry_rectangles_triangles(2/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/geometry_rectangles_triangles)
 11. [time_complexity(2/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/time_complexity)
 12. [brute_force(1/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/brute_force)
+13. [sort(4/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/sort)
 
-Important questions
+Important questions (⭐<🌟)
 --------------
+
+<details>
+<summary>⭐~⭐⭐⭐</summary>
 
 - ⭐[A/B(1008)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/I.O._and_four_arithmetic_operations/1008.md)
 - ⭐[Fast A+B(15552)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/loop_statement/15552.md)
@@ -34,4 +38,17 @@ Important questions
 - ⭐⭐⭐[Algorithm Lesson - Running Time of Algorithm 6(24267)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24267.md)
 - ⭐⭐[Algorithms Lesson - Asymptotic Notation 1(24313)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24313.md)
 - ⭐⭐[System of Linear Equations(19532)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/brute_force/19532.md)
+</details>
+
+<details>
+<summary>🌟~🌟🌟🌟</summary>
+  
 - 🌟[Repaint the Chessboard(1018)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/brute_force/1018.md)
+- 🌟🌟[Sort the Numbers 2(2751)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/2751.md)
+- 🌟🌟[Sort the Numbers 3(Counting Sort)(10989)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/10989.md)
+- 🌟🌟[Coordinate Alignment(11650)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/11650.md)
+- 🌟[Word Order(1181)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/1181.md)
+- 🌟[Sort by Age(10814)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/10814.md)
+- 🌟🌟🌟[Coordinate Compressino(18870)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/18870.md)
+
+</details>
