@@ -15,6 +15,7 @@ List of questions
 - [Coordinate Alignment 2(11651)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/11651.md)
 - 🌟[Word Order(1181)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/1181.md)
 - 🌟[Sort by Age(10814)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/10814.md)
+- 🌟🌟🌟[Coordinate Compressino(18870)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/18870.md)
 
 
 The questions I got wrong
