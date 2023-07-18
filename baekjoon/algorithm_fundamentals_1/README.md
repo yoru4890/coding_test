@@ -11,3 +11,4 @@ List of questions
 - [Stack(10828)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10828.md)
 - 🌟🌟🌟[Flip the Word(9093)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9093.md)
 - [Parenthesis(9012)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9012.md)
+- ☀️[Stack Sequence(1874)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1874.md)
