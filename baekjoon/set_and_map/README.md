@@ -10,6 +10,7 @@ List of questions
 - 🌟[Person in the Company(7785)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/7785.md)
 - 🌟🌟[poketmonMap(1620](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1620.md)
 - ☀️[Number Card 2(10816)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/10816.md)
+- [DeudBoJab(1764)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1764.md)
 
 The questions I got wrong
 -------------
