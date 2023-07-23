@@ -11,6 +11,7 @@ List of questions
 - 🌟🌟[poketmonMap(1620](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1620.md)
 - ☀️[Number Card 2(10816)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/10816.md)
 - [DeudBoJab(1764)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1764.md)
+- [Symmetry Difference of Sets(1269)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1269.md)
 
 The questions I got wrong
 -------------
