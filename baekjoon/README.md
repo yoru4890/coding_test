@@ -19,6 +19,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 12. [brute_force(1/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/brute_force)
 13. [sort(4/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/sort)
 14. [set_and_map(3/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/set_and_map)
+15. [factors_multiples_decimals_2(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/factors_multiples_decimals_2)
 
 Algorithm Fundamentals and Intermediate
 --------------------
