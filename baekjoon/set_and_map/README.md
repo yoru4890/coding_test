@@ -12,6 +12,7 @@ List of questions
 - ☀️[Number Card 2(10816)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/10816.md)
 - [DeudBoJab(1764)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1764.md)
 - [Symmetry Difference of Sets(1269)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1269.md)
+- [SubString(11478)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/11478.md)
 
 The questions I got wrong
 -------------
