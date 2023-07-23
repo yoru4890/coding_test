@@ -18,14 +18,14 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 11. [time_complexity(2/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/time_complexity)
 12. [brute_force(1/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/brute_force)
 13. [sort(4/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/sort)
-14. [set_and_map(~/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/set_and_map)
+14. [set_and_map(3/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/set_and_map)
 
 Algorithm Fundamentals and Intermediate
 --------------------
 1. [algorithm_fundamentals_1(~/69)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_1)
 
 
-Important questions (⭐<🌟)
+Important questions (⭐<🌟<☀️)
 --------------
 
 <details>
@@ -56,5 +56,15 @@ Important questions (⭐<🌟)
 - 🌟[Word Order(1181)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/1181.md)
 - 🌟[Sort by Age(10814)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/10814.md)
 - 🌟🌟🌟[Coordinate Compressino(18870)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/18870.md)
+- 🌟[Person in the Company(7785)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/7785.md)
+- 🌟🌟[poketmonMap(1620](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1620.md)
 
+</details>
+
+<details>
+<summary>☀️~☀️☀️☀️</summary>
+  
+- ☀️[Number Card(10815)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/10815.md)
+- ☀️[Number Card 2(10816)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/10816.md)
+  
 </details>
