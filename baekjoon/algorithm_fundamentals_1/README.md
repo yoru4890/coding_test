@@ -5,10 +5,22 @@ Algorithm Fundamentals 1
 - Learn the basic math content needed to solve problems. Learn about remainder operations, greatest common divisor, and prime numbers.
 - Understand what dynamic programming is and use the least difficult problems to understand dynamic programming.
 
+Contents
+-----------------
+
+[DataStructure 1(~/8)](#datastructure-1)
+
 List of questions
 ------------
+
+### DataStructure 1
 
 - [Stack(10828)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10828.md)
 - 🌟🌟🌟[Flip the Word(9093)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9093.md)
 - [Parenthesis(9012)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9012.md)
 - ☀️[Stack Sequence(1874)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1874.md)
+- 🌟🌟[Editor(1406)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1406.md)
+
+The questions I got wrong
+-------------
+- 🌟🌟[Editor(1406)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1406.md)
