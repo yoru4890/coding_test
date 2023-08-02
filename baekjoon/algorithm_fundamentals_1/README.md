@@ -20,6 +20,7 @@ List of questions
 - [Parenthesis(9012)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9012.md)
 - ☀️[Stack Sequence(1874)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1874.md)
 - 🌟🌟[Editor(1406)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1406.md)
+- [Queue(10845)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10845.md)
 
 The questions I got wrong
 -------------
