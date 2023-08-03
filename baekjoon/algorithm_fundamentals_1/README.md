@@ -8,7 +8,7 @@ Algorithm Fundamentals 1
 Contents
 -----------------
 
-[DataStructure 1(~/8)](#datastructure-1)
+[DataStructure 1(1/8)](#datastructure-1)
 
 List of questions
 ------------
@@ -22,6 +22,7 @@ List of questions
 - 🌟🌟[Editor(1406)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1406.md)
 - [Queue(10845)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10845.md)
 - [Josephus Porblem(1158)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1158.md)
+- [Deque(10866)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10866.md)
 
 The questions I got wrong
 -------------
