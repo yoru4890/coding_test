@@ -4,3 +4,5 @@ Let's dive a little further into the world of number theory.
 
 List of questions
 -----------------
+
+- [LeastCommonMultiple(1934)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/1934.md)
