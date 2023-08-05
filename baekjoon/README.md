@@ -19,7 +19,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 12. [brute_force(1/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/brute_force)
 13. [sort(4/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/sort)
 14. [set_and_map(3/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/set_and_map)
-15. [factors_multiples_decimals_2(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/factors_multiples_decimals_2)
+15. [factors_multiples_decimals_2(4/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/factors_multiples_decimals_2)
 
 Algorithm Fundamentals and Intermediate
 --------------------
@@ -45,6 +45,8 @@ Important questions (⭐<🌟<☀️)
 - ⭐⭐⭐[Algorithm Lesson - Running Time of Algorithm 6(24267)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24267.md)
 - ⭐⭐[Algorithms Lesson - Asymptotic Notation 1(24313)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/time_complexity/24313.md)
 - ⭐⭐[System of Linear Equations(19532)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/brute_force/19532.md)
+- ⭐[Sum of Fractions(1735)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/1735.md)
+- ⭐⭐[Street Tree(2485)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/2485.md)
 </details>
 
 <details>
@@ -59,6 +61,8 @@ Important questions (⭐<🌟<☀️)
 - 🌟🌟🌟[Coordinate Compressino(18870)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/sort/18870.md)
 - 🌟[Person in the Company(7785)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/7785.md)
 - 🌟🌟[poketmonMap(1620](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1620.md)
+- 🌟🌟[Next PrimeNum(4134)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/4134.md)
+- 🌟🌟🌟[Eratosthense' sieve(1929)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/1929.md)
 
 </details>
 
