@@ -30,6 +30,7 @@ List of questions
 - [Flip the Word 2(17413)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17413.md)
 - ⭐[Iron Bar(10799)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10799.md)
 - ☀️[Right Big Number(17298)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17298.md)
+- [Right Big Count Number(17299)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17299.md)
 
 The questions I got wrong
 -------------
