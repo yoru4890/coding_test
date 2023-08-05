@@ -13,6 +13,7 @@ List of questions
 - 🌟🌟🌟[Eratosthense' sieve(1929)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/1929.md)
 - [Bertrand's Postulate(4948)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/4948.md)
 - [Goldbach Number(17103)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/17103.md)
+- [Close the Window(13909)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/13909.md)
 
 The questions I got wrong
 -----------------
