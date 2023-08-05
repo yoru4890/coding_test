@@ -28,6 +28,7 @@ List of questions
 ### DataStructure 1 (Practice)
 
 - [Flip the Word 2(17413)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17413.md)
+- ⭐[Iron Bar(10799)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10799.md)
 
 The questions I got wrong
 -------------
