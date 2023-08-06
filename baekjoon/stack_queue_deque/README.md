@@ -6,3 +6,4 @@ List of questions
 ----------------------
 
 - [Stack 2(28278)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/28278.md)
+- [Zero(10773)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/10773.md)
