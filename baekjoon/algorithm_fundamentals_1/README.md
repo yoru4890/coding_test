@@ -51,6 +51,7 @@ List of questions
 - [Remainder(10430)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10430.md)
 - ⭐[GCD and LCM(2609)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2609.md)
 - [LCM(1934)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1934.md)
+- [Find PrimeNumber(1978)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1978.md)
 
 The questions I got wrong
 -------------
