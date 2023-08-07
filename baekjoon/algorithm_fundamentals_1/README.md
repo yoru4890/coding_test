@@ -49,9 +49,11 @@ List of questions
 ### Mathematics 1
 
 - [Remainder(10430)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10430.md)
+- ⭐[GCD and LCM(2609)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2609.md)
 
 The questions I got wrong
 -------------
 - 🌟🌟[Editor(1406)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1406.md)
 - ☀️☀️[Postfix Expression(1918)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1918.md)
 - [Four Numbers(10824)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10824.md)
+- ⭐[GCD and LCM(2609)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2609.md)
