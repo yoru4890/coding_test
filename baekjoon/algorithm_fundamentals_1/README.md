@@ -10,7 +10,8 @@ Contents
 
 [DataStructure 1(1/8)](#datastructure-1)   
 [DataStructure 1 (Practice)(0/4)](#datastructure-1-practice)   
-[DataStructure 1 (Reference)(~/9)](#datastructure-1-reference)
+[DataStructure 1 (Reference)(1/9)](#datastructure-1-reference)   
+[Mathematics 1 (~/9)](#mathematics-1)
 
 List of questions
 ------------
@@ -44,6 +45,10 @@ List of questions
 - [ROT13(11655)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11655.md)
 - [Four Numbers(10824)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10824.md)
 - [Suffix Array(11656)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11656.md)
+
+### Mathematics 1
+
+- [Remainder(10430)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10430.md)
 
 The questions I got wrong
 -------------
