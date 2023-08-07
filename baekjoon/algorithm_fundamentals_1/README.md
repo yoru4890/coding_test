@@ -37,6 +37,7 @@ List of questions
 
 - [Postfix Expression 2(1935)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1935.md)
 - ☀️☀️[Postfix Expression(1918)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1918.md)
+- [Alphabet Count(10808)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10808.md)
 
 The questions I got wrong
 -------------
