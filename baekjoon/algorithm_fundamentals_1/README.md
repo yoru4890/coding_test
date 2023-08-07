@@ -53,6 +53,7 @@ List of questions
 - [LCM(1934)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1934.md)
 - [Find PrimeNumber(1978)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1978.md)
 - [Eratosthenes' Sieve(1929)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1929.md)
+- 🌟[Goldbach's Conjecture(6588)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/6588.md)
 
 The questions I got wrong
 -------------
@@ -60,3 +61,4 @@ The questions I got wrong
 - ☀️☀️[Postfix Expression(1918)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1918.md)
 - [Four Numbers(10824)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10824.md)
 - ⭐[GCD and LCM(2609)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2609.md)
+- 🌟[Goldbach's Conjecture(6588)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/6588.md)
