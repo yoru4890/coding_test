@@ -36,7 +36,9 @@ List of questions
 ### DataStructure 1 (Reference)
 
 - [Postfix Expression 2(1935)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1935.md)
+- ☀️☀️[Postfix Expression(1918)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1918.md)
 
 The questions I got wrong
 -------------
 - 🌟🌟[Editor(1406)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1406.md)
+- ☀️☀️[Postfix Expression(1918)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1918.md)
