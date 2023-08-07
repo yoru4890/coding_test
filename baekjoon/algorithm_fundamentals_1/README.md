@@ -39,6 +39,7 @@ List of questions
 - ☀️☀️[Postfix Expression(1918)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1918.md)
 - [Alphabet Count(10808)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10808.md)
 - [Find the Alphabet(10809)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10809.md)
+- [String Analysis(10820)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10820.md)
 
 The questions I got wrong
 -------------
