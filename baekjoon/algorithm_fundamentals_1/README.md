@@ -42,8 +42,10 @@ List of questions
 - [String Analysis(10820)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10820.md)
 - [String Length(2743)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2743.md)
 - [ROT13(11655)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11655.md)
+- [Four Numbers(10824)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10824.md)
 
 The questions I got wrong
 -------------
 - 🌟🌟[Editor(1406)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1406.md)
 - ☀️☀️[Postfix Expression(1918)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1918.md)
+- [Four Numbers(10824)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10824.md)
