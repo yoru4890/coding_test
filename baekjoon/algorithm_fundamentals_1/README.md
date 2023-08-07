@@ -43,6 +43,7 @@ List of questions
 - [String Length(2743)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2743.md)
 - [ROT13(11655)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11655.md)
 - [Four Numbers(10824)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10824.md)
+- [Suffix Array(11656)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11656.md)
 
 The questions I got wrong
 -------------
