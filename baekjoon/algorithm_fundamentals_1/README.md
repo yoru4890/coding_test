@@ -10,7 +10,7 @@ Contents
 
 [DataStructure 1(1/8)](#datastructure-1)   
 [DataStructure 1 (Practice)(0/4)](#datastructure-1-practice)   
-[DataStructure 1 (Reference)(1/9)](#datastructure-1-reference)   
+[DataStructure 1 (Reference)(2/9)](#datastructure-1-reference)   
 [Mathematics 1 (~/9)](#mathematics-1)
 
 List of questions
