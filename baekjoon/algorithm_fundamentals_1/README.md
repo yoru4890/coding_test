@@ -63,6 +63,7 @@ List of questions
 
 - ⭐[GCD Sum(9613)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9613.md)
 - [Hide and Seek 6(17087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17087.md)
+- ⭐[Convert binary to octal(1373)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1373.md)
 
 The questions I got wrong
 -------------
