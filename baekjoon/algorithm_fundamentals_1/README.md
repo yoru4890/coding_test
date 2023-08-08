@@ -62,6 +62,7 @@ List of questions
 ### Mathematics 1 (Practice)
 
 - ⭐[GCD Sum(9613)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9613.md)
+- [Hide and Seek 6(17087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17087.md)
 
 The questions I got wrong
 -------------
