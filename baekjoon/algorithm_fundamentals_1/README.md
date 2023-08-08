@@ -11,7 +11,8 @@ Contents
 [DataStructure 1(1/8)](#datastructure-1)   
 [DataStructure 1 (Practice)(0/4)](#datastructure-1-practice)   
 [DataStructure 1 (Reference)(2/9)](#datastructure-1-reference)   
-[Mathematics 1 (4/9)](#mathematics-1)
+[Mathematics 1 (4/9)](#mathematics-1)   
+[Mathematics 1 (Practice)(~/6)](#mathematics-1-practice) 
 
 List of questions
 ------------
@@ -58,6 +59,10 @@ List of questions
 - 🌟[CountZero Factorial(1676)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1676.md)
 - 🌟🌟[CountZero Combination(2004)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2004.md)
 
+### Mathematics 1 (Practice)
+
+- ⭐[GCD Sum(9613)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9613.md)
+
 The questions I got wrong
 -------------
 - 🌟🌟[Editor(1406)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1406.md)
@@ -67,3 +72,4 @@ The questions I got wrong
 - 🌟[Goldbach's Conjecture(6588)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/6588.md)
 - 🌟[CountZero Factorial(1676)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1676.md)
 - 🌟🌟[CountZero Combination(2004)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2004.md)
+- ⭐[GCD Sum(9613)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9613.md)
