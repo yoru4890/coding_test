@@ -12,6 +12,7 @@ List of questions
 - [Snack Ticket(12789)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/12789.md)
 - [Queue 2(18258)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/18258.md)
 - [Card 2(2164)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/2164.md)
+- [Josephus 0(11866)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/11866.md)
 
 The questinos I got wrong
 --------------------------------
