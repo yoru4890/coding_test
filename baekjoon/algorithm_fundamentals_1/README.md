@@ -55,6 +55,7 @@ List of questions
 - [Eratosthenes' Sieve(1929)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1929.md)
 - 🌟[Goldbach's Conjecture(6588)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/6588.md)
 - [Factorial(10872)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10872.md)
+- 🌟[CountZero Factorial(1676)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1676.md)
 
 The questions I got wrong
 -------------
@@ -63,3 +64,4 @@ The questions I got wrong
 - [Four Numbers(10824)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10824.md)
 - ⭐[GCD and LCM(2609)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2609.md)
 - 🌟[Goldbach's Conjecture(6588)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/6588.md)
+- 🌟[CountZero Factorial(1676)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1676.md)
