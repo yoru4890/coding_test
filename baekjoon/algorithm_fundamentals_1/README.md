@@ -64,6 +64,7 @@ List of questions
 - ⭐[GCD Sum(9613)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9613.md)
 - [Hide and Seek 6(17087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17087.md)
 - ⭐[Convert binary to octal(1373)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1373.md)
+- 🌟🌟[Convert octal to binary(1212)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1212.md)
 
 The questions I got wrong
 -------------
@@ -75,3 +76,4 @@ The questions I got wrong
 - 🌟[CountZero Factorial(1676)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1676.md)
 - 🌟🌟[CountZero Combination(2004)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2004.md)
 - ⭐[GCD Sum(9613)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9613.md)
+- 🌟🌟[Convert octal to binary(1212)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1212.md)
