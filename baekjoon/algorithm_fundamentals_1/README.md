@@ -12,7 +12,7 @@ Contents
 [DataStructure 1 (Practice)(0/4)](#datastructure-1-practice)   
 [DataStructure 1 (Reference)(2/9)](#datastructure-1-reference)   
 [Mathematics 1 (4/9)](#mathematics-1)   
-[Mathematics 1 (Practice)(~/6)](#mathematics-1-practice) 
+[Mathematics 1 (Practice)(2/6)](#mathematics-1-practice) 
 
 List of questions
 ------------
@@ -65,6 +65,8 @@ List of questions
 - [Hide and Seek 6(17087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17087.md)
 - ⭐[Convert binary to octal(1373)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1373.md)
 - 🌟🌟[Convert octal to binary(1212)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1212.md)
+- ☀️[Minus Binary(2089)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2089.md)
+- [Goldbach Partition(17103)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17103.md)
 
 The questions I got wrong
 -------------
