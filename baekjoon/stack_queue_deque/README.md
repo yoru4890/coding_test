@@ -14,6 +14,7 @@ List of questions
 - [Card 2(2164)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/2164.md)
 - [Josephus 0(11866)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/11866.md)
 - [Deque 2(28279)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/28279.md)
+- 🌟[Pop the Ballon(2346)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/2346.md)
 
 The questinos I got wrong
 --------------------------------
