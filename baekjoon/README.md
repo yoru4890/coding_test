@@ -20,7 +20,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 13. [sort(4/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/sort)
 14. [set_and_map(3/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/set_and_map)
 15. [factors_multiples_decimals_2(4/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/factors_multiples_decimals_2)
-16. [stack_queue_deque(~/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/stack_queue_deque)
+16. [stack_queue_deque(3/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/stack_queue_deque)
 
 Algorithm Fundamentals and Intermediate
 --------------------
@@ -48,6 +48,8 @@ Important questions (⭐<🌟<☀️)
 - ⭐⭐[System of Linear Equations(19532)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/brute_force/19532.md)
 - ⭐[Sum of Fractions(1735)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/1735.md)
 - ⭐⭐[Street Tree(2485)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/2485.md)
+- ⭐[Parenthesis(9012)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/9012.md)
+- ⭐[Balanced World(4949)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/4949.md)
 </details>
 
 <details>
@@ -64,6 +66,8 @@ Important questions (⭐<🌟<☀️)
 - 🌟🌟[poketmonMap(1620](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/1620.md)
 - 🌟🌟[Next PrimeNum(4134)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/4134.md)
 - 🌟🌟🌟[Eratosthense' sieve(1929)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/1929.md)
+- 🌟[Pop the Ballon(2346)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/2346.md)
+- 🌟[QueueStack(24511)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/24511.md)
 
 </details>
 
