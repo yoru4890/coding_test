@@ -73,6 +73,7 @@ List of questions
 
 - [Number System Conversion 2(11005)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11005.md)
 - [Number System Conversion(2745)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2745.md)
+- [Base Conversion(11576)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11576.md)
 
 The questions I got wrong
 -------------
@@ -85,3 +86,4 @@ The questions I got wrong
 - 🌟🌟[CountZero Combination(2004)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2004.md)
 - ⭐[GCD Sum(9613)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9613.md)
 - 🌟🌟[Convert octal to binary(1212)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1212.md)
+- [Base Conversion(11576)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11576.md)
