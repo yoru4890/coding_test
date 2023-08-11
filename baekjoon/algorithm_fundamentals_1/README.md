@@ -13,7 +13,7 @@ Contents
 [DataStructure 1 (Reference)(2/9)](#datastructure-1-reference)   
 [Mathematics 1 (4/9)](#mathematics-1)   
 [Mathematics 1 (Practice)(2/6)](#mathematics-1-practice)   
-[Mathematics 1 (Reference)(~/4)](#mathematics-1-reference) 
+[Mathematics 1 (Reference)(1/4)](#mathematics-1-reference) 
 
 List of questions
 ------------
@@ -74,6 +74,7 @@ List of questions
 - [Number System Conversion 2(11005)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11005.md)
 - [Number System Conversion(2745)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2745.md)
 - [Base Conversion(11576)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11576.md)
+- [Factorization in Prime Factors(11653)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11653.md)
 
 The questions I got wrong
 -------------
