@@ -80,6 +80,7 @@ List of questions
 ### Dynamic Programming 1
 
 - ☀️☀️☀️[Make it 1(1463)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1463.md)
+- 🌟🌟[2xN Tiling(11726)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11726.md)
 
 The questions I got wrong
 -------------
