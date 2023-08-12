@@ -83,6 +83,7 @@ List of questions
 - 🌟🌟[2xN Tiling(11726)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11726.md)
 - [2xN Tiling 2(11727)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11727.md)
 - [1,2,3 Plus(9095)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9095.md)
+- ☀️☀️☀️[Buy a Card(11052)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11052.md)
 
 The questions I got wrong
 -------------
