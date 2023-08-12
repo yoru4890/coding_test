@@ -94,3 +94,4 @@ The questions I got wrong
 - ⭐[GCD Sum(9613)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9613.md)
 - 🌟🌟[Convert octal to binary(1212)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1212.md)
 - [Base Conversion(11576)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11576.md)
+- 🌟🌟[2xN Tiling(11726)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11726.md)
