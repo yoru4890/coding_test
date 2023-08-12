@@ -81,6 +81,7 @@ List of questions
 
 - ☀️☀️☀️[Make it 1(1463)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1463.md)
 - 🌟🌟[2xN Tiling(11726)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11726.md)
+- [2xN Tiling 2(11727)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11727.md)
 
 The questions I got wrong
 -------------
