@@ -87,6 +87,7 @@ List of questions
 - [Buy a Card 2(16194)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/16194.md)
 - [1,2,3 Plus 5(15990)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/15990.md)
 - [Number of Easy Stairs(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10844.md)
+- [Pinary Number(2193)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2193.md)
 
 The questions I got wrong
 -------------
@@ -103,3 +104,4 @@ The questions I got wrong
 - 🌟🌟[2xN Tiling(11726)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11726.md)
 - [1,2,3 Plus 5(15990)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/15990.md)
 - [Number of Easy Stairs(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10844.md)
+- [Pinary Number(2193)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2193.md)
