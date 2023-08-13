@@ -85,6 +85,7 @@ List of questions
 - [1,2,3 Plus(9095)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9095.md)
 - ☀️☀️☀️[Buy a Card(11052)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11052.md)
 - [Buy a Card 2(16194)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/16194.md)
+- [1,2,3 Plus 5(15990)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/15990.md)
 
 The questions I got wrong
 -------------
@@ -99,3 +100,4 @@ The questions I got wrong
 - 🌟🌟[Convert octal to binary(1212)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1212.md)
 - [Base Conversion(11576)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11576.md)
 - 🌟🌟[2xN Tiling(11726)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11726.md)
+- [1,2,3 Plus 5(15990)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/15990.md)
