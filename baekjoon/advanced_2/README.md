@@ -9,8 +9,10 @@ List of questions
 - [Greeting Bright Bear(25192)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/advanced_2/25192.md)
 - [ChongChong(26069)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/advanced_2/26069.md)
 - 🌟🌟[Statistics(2108)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/advanced_2/2108.md)
+- 🌟🌟🌟[Memorizing English Words is Painful(20920)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/advanced_2/20920.md)
 
 The questions I got wrong
 ------------------
 
 - 🌟🌟[Statistics(2108)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/advanced_2/2108.md)
+- 🌟🌟🌟[Memorizing English Words is Painful(20920)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/advanced_2/20920.md)
