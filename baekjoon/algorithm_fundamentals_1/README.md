@@ -88,6 +88,7 @@ List of questions
 - [1,2,3 Plus 5(15990)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/15990.md)
 - [Number of Easy Stairs(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10844.md)
 - [Pinary Number(2193)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2193.md)
+- ☀️☀️[Longest Increasing Subsequence(11053)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11053.md)
 
 The questions I got wrong
 -------------
@@ -105,3 +106,4 @@ The questions I got wrong
 - [1,2,3 Plus 5(15990)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/15990.md)
 - [Number of Easy Stairs(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10844.md)
 - [Pinary Number(2193)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2193.md)
+- ☀️☀️[Longest Increasing Subsequence(11053)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11053.md)
