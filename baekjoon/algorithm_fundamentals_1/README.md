@@ -90,6 +90,7 @@ List of questions
 - [Pinary Number(2193)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2193.md)
 - ☀️☀️[Longest Increasing Subsequence(11053)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11053.md)
 - ☀️☀️[Longest Increasing Subsequence 4(14002)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/14002.md)
+- 🌟🌟[Continuous Sum(1912)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1912.md)
 
 The questions I got wrong
 -------------
@@ -109,3 +110,4 @@ The questions I got wrong
 - [Pinary Number(2193)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2193.md)
 - ☀️☀️[Longest Increasing Subsequence(11053)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11053.md)
 - ☀️☀️[Longest Increasing Subsequence 4(14002)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/14002.md)
+- 🌟🌟[Continuous Sum(1912)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1912.md)
