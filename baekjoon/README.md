@@ -23,7 +23,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 16. [stack_queue_deque(3/11)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/stack_queue_deque)
 17. [combinatorics(2/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/combinatorics)
 18. [advanced_2(2/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/advanced_2)
-19. [recursion(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/recursion)
+19. [recursion(1/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/recursion)
 
 Algorithm Fundamentals and Intermediate
 --------------------
@@ -53,6 +53,7 @@ Important questions (⭐<🌟<☀️)
 - ⭐⭐[Street Tree(2485)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/factors_multiples_decimals_2/2485.md)
 - ⭐[Parenthesis(9012)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/9012.md)
 - ⭐[Balanced World(4949)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/4949.md)
+- ⭐[Master of Recursion(25501)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/recursion/25501.md)
 </details>
 
 <details>
