@@ -14,7 +14,7 @@ Contents
 [Mathematics 1 (4/9)](#mathematics-1)   
 [Mathematics 1 (Practice)(2/6)](#mathematics-1-practice)   
 [Mathematics 1 (Reference)(1/4)](#mathematics-1-reference)   
-[Dynamic Programming 1(~/14)](#dynamic-programming-1) 
+[Dynamic Programming 1(8/14)](#dynamic-programming-1) 
 
 List of questions
 ------------
@@ -92,6 +92,7 @@ List of questions
 - ☀️☀️[Longest Increasing Subsequence 4(14002)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/14002.md)
 - 🌟🌟[Continuous Sum(1912)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1912.md)
 - ☀️[Sum of Squares(1699)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1699.md)
+- ☀️[Sum Decomposition(2225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2225.md)
 
 The questions I got wrong
 -------------
@@ -113,3 +114,4 @@ The questions I got wrong
 - ☀️☀️[Longest Increasing Subsequence 4(14002)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/14002.md)
 - 🌟🌟[Continuous Sum(1912)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1912.md)
 - ☀️[Sum of Squares(1699)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1699.md)
+- ☀️[Sum Decomposition(2225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2225.md)
