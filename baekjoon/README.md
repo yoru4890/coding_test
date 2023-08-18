@@ -24,6 +24,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 17. [combinatorics(2/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/combinatorics)
 18. [advanced_2(2/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/advanced_2)
 19. [recursion(1/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/recursion)
+20. [backtracking(~/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/backtracking)
 
 Algorithm Fundamentals and Intermediate
 --------------------
