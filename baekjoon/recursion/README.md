@@ -11,6 +11,7 @@ List of questions
 - [Algorithm Lesson - Merge Sort 1(24060)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/recursion/24060.md)
 - [Cantor(4779)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/recursion/4779.md)
 - [Printing Star(2447)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/recursion/2447.md)
+- [Hanoi(11729)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/recursion/11729.md)
 
 The questions I got wrong
 -----------------------
