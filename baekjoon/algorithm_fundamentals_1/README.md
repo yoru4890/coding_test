@@ -14,7 +14,8 @@ Contents
 [Mathematics 1 (4/9)](#mathematics-1)   
 [Mathematics 1 (Practice)(2/6)](#mathematics-1-practice)   
 [Mathematics 1 (Reference)(1/4)](#mathematics-1-reference)   
-[Dynamic Programming 1(8/14)](#dynamic-programming-1) 
+[Dynamic Programming 1(8/14)](#dynamic-programming-1)   
+[Dynamic Programming 1(Practice)(~/12)](#dynamic-programming-1-practice) 
 
 List of questions
 ------------
@@ -93,6 +94,10 @@ List of questions
 - 🌟🌟[Continuous Sum(1912)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1912.md)
 - ☀️[Sum of Squares(1699)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1699.md)
 - ☀️[Sum Decomposition(2225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2225.md)
+
+### Dynamic Programming 1 (Practice)
+
+- [1,2,3 Plus 3(15988)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/15988.md)
 
 The questions I got wrong
 -------------
