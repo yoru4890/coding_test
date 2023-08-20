@@ -101,6 +101,7 @@ List of questions
 - [RGB Street(1149)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1149.md)
 - [Zoo(1309)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1309.md)
 - ⭐[Ascent Number(11057)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11057.md)
+- ☀️[Sticker(9465)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9465.md)
 
 The questions I got wrong
 -------------
@@ -123,3 +124,4 @@ The questions I got wrong
 - 🌟🌟[Continuous Sum(1912)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1912.md)
 - ☀️[Sum of Squares(1699)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1699.md)
 - ☀️[Sum Decomposition(2225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2225.md)
+- ☀️[Sticker(9465)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9465.md)
