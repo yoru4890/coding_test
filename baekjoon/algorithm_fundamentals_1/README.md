@@ -98,6 +98,7 @@ List of questions
 ### Dynamic Programming 1 (Practice)
 
 - [1,2,3 Plus 3(15988)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/15988.md)
+- [RGB Street(1149)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1149.md)
 
 The questions I got wrong
 -------------
