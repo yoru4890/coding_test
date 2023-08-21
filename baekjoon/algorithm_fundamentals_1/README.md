@@ -106,6 +106,7 @@ List of questions
 - [Integer Triangle(1932)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1932.md)
 - ☀️[Largest Increasing Subsequence(11055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11055.md)
 - [Longest Decreasing Subsequence(11722)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11722.md)
+- ☀️[Longest Bitonic Subsequence(11054)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11054.md)
 
 The questions I got wrong
 -------------
@@ -131,4 +132,5 @@ The questions I got wrong
 - ☀️[Sticker(9465)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9465.md)
 - 🌟🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2156.md)
 - ☀️[Largest Increasing Subsequence(11055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11055.md)
+- ☀️[Longest Bitonic Subsequence(11054)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11054.md)
 
