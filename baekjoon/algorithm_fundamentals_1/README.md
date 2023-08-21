@@ -102,6 +102,7 @@ List of questions
 - [Zoo(1309)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1309.md)
 - ⭐[Ascent Number(11057)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11057.md)
 - ☀️[Sticker(9465)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9465.md)
+- 🌟🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2156.md)
 
 The questions I got wrong
 -------------
@@ -125,3 +126,5 @@ The questions I got wrong
 - ☀️[Sum of Squares(1699)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1699.md)
 - ☀️[Sum Decomposition(2225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2225.md)
 - ☀️[Sticker(9465)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9465.md)
+- 🌟🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2156.md)
+
