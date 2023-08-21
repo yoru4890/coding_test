@@ -103,6 +103,7 @@ List of questions
 - ⭐[Ascent Number(11057)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11057.md)
 - ☀️[Sticker(9465)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9465.md)
 - 🌟🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2156.md)
+- [Integer Triangle(1932)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1932.md)
 
 The questions I got wrong
 -------------
