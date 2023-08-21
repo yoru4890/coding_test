@@ -104,6 +104,7 @@ List of questions
 - ☀️[Sticker(9465)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9465.md)
 - 🌟🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2156.md)
 - [Integer Triangle(1932)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1932.md)
+- ☀️[Largest Increasing Subsequence(11055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11055.md)
 
 The questions I got wrong
 -------------
@@ -128,4 +129,5 @@ The questions I got wrong
 - ☀️[Sum Decomposition(2225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2225.md)
 - ☀️[Sticker(9465)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9465.md)
 - 🌟🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2156.md)
+- ☀️[Largest Increasing Subsequence(11055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11055.md)
 
