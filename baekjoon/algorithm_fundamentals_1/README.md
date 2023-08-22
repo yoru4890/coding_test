@@ -15,7 +15,7 @@ Contents
 [Mathematics 1 (Practice)(2/6)](#mathematics-1-practice)   
 [Mathematics 1 (Reference)(1/4)](#mathematics-1-reference)   
 [Dynamic Programming 1(8/14)](#dynamic-programming-1)   
-[Dynamic Programming 1(Practice)(~/12)](#dynamic-programming-1-practice) 
+[Dynamic Programming 1(Practice)(6/12)](#dynamic-programming-1-practice) 
 
 List of questions
 ------------
@@ -108,6 +108,7 @@ List of questions
 - [Longest Decreasing Subsequence(11722)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11722.md)
 - ☀️[Longest Bitonic Subsequence(11054)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11054.md)
 - ☀️☀️[Continuous Sum 2(13398)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/13398.md)
+- 🌙[Tile Fill(2133)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2133.md)
 
 The questions I got wrong
 -------------
@@ -135,4 +136,5 @@ The questions I got wrong
 - ☀️[Largest Increasing Subsequence(11055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11055.md)
 - ☀️[Longest Bitonic Subsequence(11054)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11054.md)
 - ☀️☀️[Continuous Sum 2(13398)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/13398.md)
+- 🌙[Tile Fill(2133)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2133.md)
 
