@@ -8,14 +8,15 @@ Algorithm Fundamentals 1
 Contents
 -----------------
 
-[DataStructure 1(1/8)](#datastructure-1)   
-[DataStructure 1 (Practice)(0/4)](#datastructure-1-practice)   
-[DataStructure 1 (Reference)(2/9)](#datastructure-1-reference)   
-[Mathematics 1 (4/9)](#mathematics-1)   
-[Mathematics 1 (Practice)(2/6)](#mathematics-1-practice)   
-[Mathematics 1 (Reference)(1/4)](#mathematics-1-reference)   
-[Dynamic Programming 1(8/14)](#dynamic-programming-1)   
-[Dynamic Programming 1(Practice)(6/12)](#dynamic-programming-1-practice) 
+- [DataStructure 1(1/8)](#datastructure-1)   
+- [DataStructure 1 (Practice)(0/4)](#datastructure-1-practice)   
+- [DataStructure 1 (Reference)(2/9)](#datastructure-1-reference)   
+- [Mathematics 1 (4/9)](#mathematics-1)   
+- [Mathematics 1 (Practice)(2/6)](#mathematics-1-practice)   
+- [Mathematics 1 (Reference)(1/4)](#mathematics-1-reference)   
+- [Dynamic Programming 1(8/14)](#dynamic-programming-1)   
+- [Dynamic Programming 1(Practice)(6/12)](#dynamic-programming-1-practice)   
+- [Dynamic Programming 1(Challenge)(~/3)](#dynamic-programming-1-challenge) 
 
 List of questions
 ------------
@@ -109,6 +110,12 @@ List of questions
 - ☀️[Longest Bitonic Subsequence(11054)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11054.md)
 - ☀️☀️[Continuous Sum 2(13398)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/13398.md)
 - 🌙[Tile Fill(2133)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2133.md)
+
+### Dynamic Programming 1 (Challenge)
+
+- [Zoo(1309)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1309.md)
+- [RGB Street 2(17404)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17404.md)
+- [Sum Decomposition(2225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2225.md)
 
 The questions I got wrong
 -------------
