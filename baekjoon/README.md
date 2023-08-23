@@ -29,6 +29,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 Algorithm Fundamentals and Intermediate
 --------------------
 1. [algorithm_fundamentals_1(24/69)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_1)
+2. [algorithm_fundamentals_2(~/61)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_2)
 
 
 Important questions (⭐<🌟<☀️<🌙)
