@@ -28,10 +28,10 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 
 Algorithm Fundamentals and Intermediate
 --------------------
-1. [algorithm_fundamentals_1(~/69)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_1)
+1. [algorithm_fundamentals_1(24/69)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_1)
 
 
-Important questions (⭐<🌟<☀️)
+Important questions (⭐<🌟<☀️<🌙)
 --------------
 
 <details>
@@ -55,6 +55,13 @@ Important questions (⭐<🌟<☀️)
 - ⭐[Parenthesis(9012)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/9012.md)
 - ⭐[Balanced World(4949)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_queue_deque/4949.md)
 - ⭐[Master of Recursion(25501)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/recursion/25501.md)
+- ⭐[Iron Bar(10799)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/10799.md)
+- ⭐[GCD and LCM(2609)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2609.md)
+- ⭐[GCD Sum(9613)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9613.md)
+- ⭐[Convert binary to octal(1373)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1373.md)
+- ⭐[Ascent Number(11057)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11057.md)
+
+  
 </details>
 
 <details>
@@ -76,6 +83,16 @@ Important questions (⭐<🌟<☀️)
 - 🌟[Bridge(1010)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/combinatorics/1010.md)
 - 🌟🌟[Statistics(2108)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/advanced_2/2108.md)
 - 🌟🌟🌟[Memorizing English Words is Painful(20920)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/advanced_2/20920.md)
+- 🌟🌟🌟[Flip the Word(9093)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9093.md)
+- 🌟🌟[Editor(1406)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1406.md)
+- 🌟[Goldbach's Conjecture(6588)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/6588.md)
+- 🌟[CountZero Factorial(1676)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1676.md)
+- 🌟🌟[CountZero Combination(2004)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2004.md)
+- 🌟🌟[Convert octal to binary(1212)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1212.md)
+- 🌟🌟[2xN Tiling(11726)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11726.md)
+- 🌟🌟[Continuous Sum(1912)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1912.md)
+- 🌟🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2156.md)
+
 
 </details>
 
@@ -84,5 +101,27 @@ Important questions (⭐<🌟<☀️)
   
 - ☀️[Number Card(10815)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/10815.md)
 - ☀️[Number Card 2(10816)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/set_and_map/10816.md)
+- ☀️[Stack Sequence(1874)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1874.md)
+- ☀️[Right Big Number(17298)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17298.md)
+- ☀️☀️[Postfix Expression(1918)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1918.md)
+- ☀️[Minus Binary(2089)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2089.md)
+- ☀️☀️☀️[Make it 1(1463)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1463.md)
+- ☀️☀️☀️[Buy a Card(11052)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11052.md)
+- ☀️☀️[Longest Increasing Subsequence(11053)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11053.md)
+- ☀️☀️[Longest Increasing Subsequence 4(14002)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/14002.md)
+- ☀️[Sum of Squares(1699)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1699.md)
+- ☀️[Sum Decomposition(2225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2225.md)
+- ☀️[Sticker(9465)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/9465.md)
+- ☀️[Largest Increasing Subsequence(11055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11055.md)
+- ☀️[Longest Bitonic Subsequence(11054)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11054.md)
+- ☀️☀️[Continuous Sum 2(13398)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/13398.md)
+- ☀️☀️[RGB Street 2(17404)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17404.md)
   
+</details>
+
+<details>
+<summary>🌙~🌙🌙🌙</summary>
+
+- 🌙[Tile Fill(2133)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2133.md)
+
 </details>
