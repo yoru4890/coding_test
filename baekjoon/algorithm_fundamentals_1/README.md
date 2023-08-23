@@ -16,7 +16,7 @@ Contents
 - [Mathematics 1 (Reference)(1/4)](#mathematics-1-reference)   
 - [Dynamic Programming 1(8/14)](#dynamic-programming-1)   
 - [Dynamic Programming 1(Practice)(6/12)](#dynamic-programming-1-practice)   
-- [Dynamic Programming 1(Challenge)(~/3)](#dynamic-programming-1-challenge) 
+- [Dynamic Programming 1(Challenge)(0/3)](#dynamic-programming-1-challenge) 
 
 List of questions
 ------------
@@ -114,7 +114,7 @@ List of questions
 ### Dynamic Programming 1 (Challenge)
 
 - [Zoo(1309)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1309.md)
-- [RGB Street 2(17404)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17404.md)
+- ☀️☀️[RGB Street 2(17404)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/17404.md)
 - [Sum Decomposition(2225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2225.md)
 
 The questions I got wrong
