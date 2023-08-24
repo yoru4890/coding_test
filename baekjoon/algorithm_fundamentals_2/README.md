@@ -9,8 +9,8 @@ Algorithm Fundamentals 2
 Contents
 --------------------
 
-- [Brute Force(~/8)](#brute-force)
-- [Brute Force (N, M)(~/12)](#brute-force-n,-m)
+- [Brute Force(~/8)](#brute-force)   
+- [Brute Force (N, M)(~/12)](#brute-force-n-m)
 - [Brute Force (Permutation)(~/6)](#brute-force-permutation)
 - [Brute Force (Recursion)(~/7)](#brute-force-recursion)
 - [Brute Force (BitMask)(~/4)](#brute-force-bitmask)
@@ -25,7 +25,11 @@ List of questions
 
 ### Brute Force
 
+- [Seven Dawrfs(2309)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2309.md)   
+
+
 ### Brute Force (N, M)
+
 
 ### Brute Force (Permutation)
 
