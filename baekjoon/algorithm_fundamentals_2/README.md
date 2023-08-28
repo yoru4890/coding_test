@@ -27,6 +27,7 @@ List of questions
 
 - [Seven Dawrfs(2309)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2309.md)
 - [Candy Game(3085)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/3085.md)
+- [Date Calculation(1476)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1476.md)
 
 
 ### Brute Force (N, M)
