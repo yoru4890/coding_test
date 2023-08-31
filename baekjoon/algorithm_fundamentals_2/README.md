@@ -30,6 +30,7 @@ List of questions
 - [Date Calculation(1476)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1476.md)
 - ☀️[Remote Control(1107)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1107.md)
 - ☀️☀️☀️[Tetromino(14500)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14500.md)
+- [Kaing Calendar(6064)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/6064.md)
 
 ### Brute Force (N, M)
 
