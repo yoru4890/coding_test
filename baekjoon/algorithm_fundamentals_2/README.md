@@ -31,6 +31,7 @@ List of questions
 - ☀️[Remote Control(1107)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1107.md)
 - ☀️☀️☀️[Tetromino(14500)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14500.md)
 - [Kaing Calendar(6064)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/6064.md)
+- [Number Continuation Writing 1(1748)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1748.md)
 
 ### Brute Force (N, M)
 
