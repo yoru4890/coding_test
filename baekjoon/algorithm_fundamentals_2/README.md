@@ -10,7 +10,7 @@ Contents
 --------------------
 
 - [Brute Force(2/8)](#brute-force)   
-- [Brute Force (N, M)(~/12)](#brute-force-n-m)
+- [Brute Force (N, M)(1/12)](#brute-force-n-m)
 - [Brute Force (Permutation)(~/6)](#brute-force-permutation)
 - [Brute Force (Recursion)(~/7)](#brute-force-recursion)
 - [Brute Force (BitMask)(~/4)](#brute-force-bitmask)
