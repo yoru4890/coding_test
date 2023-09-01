@@ -9,7 +9,7 @@ Algorithm Fundamentals 2
 Contents
 --------------------
 
-- [Brute Force(~/8)](#brute-force)   
+- [Brute Force(2/8)](#brute-force)   
 - [Brute Force (N, M)(~/12)](#brute-force-n-m)
 - [Brute Force (Permutation)(~/6)](#brute-force-permutation)
 - [Brute Force (Recursion)(~/7)](#brute-force-recursion)
@@ -32,6 +32,7 @@ List of questions
 - ☀️☀️☀️[Tetromino(14500)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14500.md)
 - [Kaing Calendar(6064)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/6064.md)
 - [Number Continuation Writing 1(1748)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1748.md)
+- [1,2,3 Plus(9095)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/9095.md)
 
 ### Brute Force (N, M)
 
