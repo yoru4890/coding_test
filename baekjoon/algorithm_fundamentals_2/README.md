@@ -44,6 +44,7 @@ List of questions
 - [N and M(6) (15655)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15655.md)
 - [N and M(7) (15656)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15656.md)
 - [N and M(8) (15657)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15657.md)
+- ☀️[N and M(9) (15663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15663.md)
 
 ### Brute Force (Permutation)
 
@@ -67,3 +68,4 @@ The questions I got wrong
 
 - ☀️[Remote Control(1107)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1107.md)
 - ☀️☀️☀️[Tetromino(14500)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14500.md)
+- ☀️[N and M(9) (15663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15663.md)
