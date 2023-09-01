@@ -43,6 +43,7 @@ List of questions
 - [N and M(5) (15654)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15654.md)
 - [N and M(6) (15655)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15655.md)
 - [N and M(7) (15656)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15656.md)
+- [N and M(8) (15657)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15657.md)
 
 ### Brute Force (Permutation)
 
