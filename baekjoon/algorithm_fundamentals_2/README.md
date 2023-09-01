@@ -36,6 +36,7 @@ List of questions
 
 ### Brute Force (N, M)
 
+- [N and M(1) (15649)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15649.md)
 
 ### Brute Force (Permutation)
 
