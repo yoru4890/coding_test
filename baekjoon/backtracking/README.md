@@ -11,6 +11,7 @@ List of questions
 - [N and M(4) (15652)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/backtracking/15652.md)
 - 🌙🌙[N-Queen(9663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/backtracking/9663.md)
 - 🌙🌙🌙[Sudoku(2580)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/backtracking/2580.md)
+- [Inserting Operators(14888)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/backtracking/14888.md)
 
 The questions I got wrong
 ------------------------
