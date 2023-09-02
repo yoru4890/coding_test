@@ -25,6 +25,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 18. [advanced_2(2/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/advanced_2)
 19. [recursion(1/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/recursion)
 20. [backtracking(3/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/backtracking)
+21. [dynamic_programming_1(~/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_1)
 
 Algorithm Fundamentals and Intermediate
 --------------------
