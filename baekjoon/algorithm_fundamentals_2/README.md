@@ -51,6 +51,8 @@ List of questions
 
 ### Brute Force (Permutation)
 
+- 🌙🌙[Next Permutation(10972)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10972.md)
+
 ### Brute Force (Recursion)
 
 ### Brute Force (BitMask)
