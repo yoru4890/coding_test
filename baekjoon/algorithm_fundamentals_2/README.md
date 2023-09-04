@@ -52,6 +52,7 @@ List of questions
 ### Brute Force (Permutation)
 
 - 🌙🌙[Next Permutation(10972)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10972.md)
+- [Prev Permutation(10973)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10973.md)
 
 ### Brute Force (Recursion)
 
