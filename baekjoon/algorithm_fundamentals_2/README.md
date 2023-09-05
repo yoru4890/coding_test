@@ -54,6 +54,7 @@ List of questions
 - 🌙🌙[Next Permutation(10972)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10972.md)
 - [Prev Permutation(10973)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10973.md)
 - [All Permutation(10974)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10974.md)
+- [Maximaize the difference(10819)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10819.md)
 
 ### Brute Force (Recursion)
 
