@@ -55,6 +55,7 @@ List of questions
 - [Prev Permutation(10973)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10973.md)
 - [All Permutation(10974)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10974.md)
 - [Maximaize the difference(10819)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10819.md)
+- [TSP 2(10971)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10971.md)
 
 ### Brute Force (Recursion)
 
@@ -77,3 +78,4 @@ The questions I got wrong
 - ☀️[Remote Control(1107)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1107.md)
 - ☀️☀️☀️[Tetromino(14500)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14500.md)
 - ☀️[N and M(9) (15663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15663.md)
+- [TSP 2(10971)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10971.md)
