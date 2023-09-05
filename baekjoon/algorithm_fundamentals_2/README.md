@@ -11,7 +11,7 @@ Contents
 
 - [Brute Force(2/8)](#brute-force)   
 - [Brute Force (N, M)(1/12)](#brute-force-n-m)
-- [Brute Force (Permutation)(~/6)](#brute-force-permutation)
+- [Brute Force (Permutation)(1/6)](#brute-force-permutation)
 - [Brute Force (Recursion)(~/7)](#brute-force-recursion)
 - [Brute Force (BitMask)(~/4)](#brute-force-bitmask)
 - [Graph 1(~/9)](#graph-1)
@@ -56,6 +56,7 @@ List of questions
 - [All Permutation(10974)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10974.md)
 - [Maximaize the difference(10819)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10819.md)
 - [TSP 2(10971)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10971.md)
+- ☀️[Lotto(6603)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/6603.md)
 
 ### Brute Force (Recursion)
 
