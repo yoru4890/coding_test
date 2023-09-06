@@ -15,6 +15,7 @@ List of questions
 - [Integer Triangle(1932)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/1932.md)
 - [Climbing Stairs(2579)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2579.md)
 - [Make it 1(1463)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/1463.md)
+- ⭐[Easy Stair Numbers(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/10844.md)
 
 
 The questions I got wrong
@@ -22,3 +23,4 @@ The questions I got wrong
 
 - ☀️☀️[Exciting Function Execution(9184)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9184.md)
 - [Padoban Sequence(9461)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9461.md)
+- ⭐[Easy Stair Numbers(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/10844.md)
