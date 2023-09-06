@@ -10,6 +10,7 @@ List of questions
 - ☀️☀️[Exciting Function Execution(9184)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9184.md)
 - [01Tile(1904)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/1904.md)
 - [Padoban Sequence(9461)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9461.md)
+- [Continuous Sum(1912)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/1912.md)
 
 
 The questions I got wrong
