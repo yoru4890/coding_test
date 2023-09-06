@@ -14,6 +14,7 @@ List of questions
 - [RGB Street(1149)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/1149.md)
 - [Integer Triangle(1932)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/1932.md)
 - [Climbing Stairs(2579)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2579.md)
+- [Make it 1(1463)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/1463.md)
 
 
 The questions I got wrong
