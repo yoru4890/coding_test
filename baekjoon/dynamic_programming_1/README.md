@@ -18,6 +18,7 @@ List of questions
 - ⭐[Easy Stair Numbers(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/10844.md)
 - 🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2156.md)
 - [Longest Increasing Subsequence(11053)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/11053.md)
+- [Longest Bitonic Subsequence(11054)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/11054.md)
 
 
 The questions I got wrong
