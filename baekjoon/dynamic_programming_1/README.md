@@ -16,6 +16,7 @@ List of questions
 - [Climbing Stairs(2579)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2579.md)
 - [Make it 1(1463)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/1463.md)
 - ⭐[Easy Stair Numbers(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/10844.md)
+- 🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2156.md)
 
 
 The questions I got wrong
