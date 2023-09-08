@@ -20,6 +20,7 @@ List of questions
 - [Longest Increasing Subsequence(11053)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/11053.md)
 - [Longest Bitonic Subsequence(11054)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/11054.md)
 - ☀️☀️[Electric Wire(2565)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2565.md)
+- ☀️☀️☀️[LCS(9251)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9251.md)
 
 
 The questions I got wrong
@@ -29,3 +30,5 @@ The questions I got wrong
 - [Padoban Sequence(9461)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9461.md)
 - ⭐[Easy Stair Numbers(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/10844.md)
 - ☀️☀️[Electric Wire(2565)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2565.md)
+- ☀️☀️☀️[LCS(9251)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9251.md)
+
