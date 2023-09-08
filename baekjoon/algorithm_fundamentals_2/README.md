@@ -64,6 +64,7 @@ List of questions
 - [Creating Password(1759)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1759.md)
 - [Quit(14501)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14501.md)
 - [Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14889.md)
+- [Link and Start(15661)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15661.md)
 
 ### Brute Force (BitMask)
 
