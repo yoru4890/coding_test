@@ -65,7 +65,7 @@ List of questions
 - [Quit(14501)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14501.md)
 - [Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14889.md)
 - [Link and Start(15661)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15661.md)
-- [Inequality Sign(2529)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2529.md)
+- 🌟🌟[Inequality Sign(2529)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2529.md)
 
 ### Brute Force (BitMask)
 
