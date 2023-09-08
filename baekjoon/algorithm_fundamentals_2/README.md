@@ -60,6 +60,9 @@ List of questions
 
 ### Brute Force (Recursion)
 
+- [1,2,3 Plus(9095)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/9095.md)
+- [Creating Password(1759)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1759.md)
+
 ### Brute Force (BitMask)
 
 ### Graph 1
