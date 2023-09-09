@@ -12,7 +12,7 @@ Contents
 - [Brute Force(2/8)](#brute-force)   
 - [Brute Force (N, M)(1/12)](#brute-force-n-m)
 - [Brute Force (Permutation)(1/6)](#brute-force-permutation)
-- [Brute Force (Recursion)(~/7)](#brute-force-recursion)
+- [Brute Force (Recursion)(0/7)](#brute-force-recursion)
 - [Brute Force (BitMask)(~/4)](#brute-force-bitmask)
 - [Graph 1(~/9)](#graph-1)
 - [Graph 1 (Practice)(~/2)](#graph-1-practice)
@@ -66,6 +66,7 @@ List of questions
 - [Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14889.md)
 - [Link and Start(15661)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15661.md)
 - 🌟🌟[Inequality Sign(2529)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2529.md)
+- [Guess(1248)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1248.md)
 
 ### Brute Force (BitMask)
 
