@@ -13,7 +13,7 @@ Contents
 - [Brute Force (N, M)(1/12)](#brute-force-n-m)
 - [Brute Force (Permutation)(1/6)](#brute-force-permutation)
 - [Brute Force (Recursion)(0/7)](#brute-force-recursion)
-- [Brute Force (BitMask)(~/4)](#brute-force-bitmask)
+- [Brute Force (BitMask)(1/4)](#brute-force-bitmask)
 - [Graph 1(~/9)](#graph-1)
 - [Graph 1 (Practice)(~/2)](#graph-1-practice)
 - [Graph 1 (Challenge)(~/3)](#graph-1-challenge)
@@ -73,6 +73,7 @@ List of questions
 - [Set(11723)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/11723.md)
 - [Subsequence Sum(1182)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1182.md)
 - [Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14889.md)
+- 🌙[Piece of Paper(14391)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14391.md)
 
 ### Graph 1
 
@@ -92,3 +93,4 @@ The questions I got wrong
 - ☀️☀️☀️[Tetromino(14500)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14500.md)
 - ☀️[N and M(9) (15663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15663.md)
 - [TSP 2(10971)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10971.md)
+- 🌙[Piece of Paper(14391)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14391.md)
