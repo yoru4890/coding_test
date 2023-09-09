@@ -72,6 +72,7 @@ List of questions
 
 - [Set(11723)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/11723.md)
 - [Subsequence Sum(1182)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1182.md)
+- [Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14889.md)
 
 ### Graph 1
 
