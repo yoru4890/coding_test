@@ -1,29 +1,27 @@
 #include <string>
 #include <vector>
-#include <map>
 #include <cmath>
+#include <algorithm>
 
 using namespace std;
 
 int solution(int a, int b, int c, int d) {
-    map<int,int> count;
-    int answer{};
-    count[a]++;
-    count[b]++;
-    count[c]++;
-    count[d]++;
-    if(count.size() == 1 ){answer = 1111 * a;}
-    else if(count.size() == 2){
-        if(count[a]== 2){
-            answer = a==b ? (a + c) * abs(a-c) : (a + b) * abs(a-b);
-        }else{
-            answer = count[a] == 1 ? pow(10 * b + a,2) : count[b] == 1 ? pow(10* a + b,2) : 
-                    count[c] == 1 ? pow(10 * a + c,2) : pow(10 * a + d, 2);
-        }
-    }else if(count.size() == 3){
-        answer = a == b ? c*d : a == c ? b*d : a == d ? b*c : b == c ? a * d : b == d ? a * c : a * b;
-    }else{
-        answer = min(a,min(b,min(c,d)));
+    int answer{}, i{1};
+    vector<int> dice(6);
+    vector<vector<int>> table(5);
+    dice[a-1]++; dice[b-1]++; dice[c-1]++; dice[d-1]++;
+    
+    for(const auto& e : dice){
+        table[e].push_back(i++);
     }
+    
+    if(!table[4].empty()){ answer = 1111 * table[4][0]; }
+    else if(!table[3].empty()){ answer = pow(10 * table[3][0] + table[1][0], 2); }
+    else if(table[2].size() == 2){
+        answer = (table[2][0] + table[2][1]) * abs(table[2][0] - table[2][1]);
+    }else if(table[2].size() == 1){
+        answer = table[1][0] * table[1][1];
+    }else{ answer = *min_element(table[1].begin(), table[1].end()); }
+   
     return answer;
 }
