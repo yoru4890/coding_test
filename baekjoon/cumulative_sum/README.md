@@ -7,6 +7,7 @@ List of questions
 
 - [Find Sum of Intervals 4(11659)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/cumulative_sum/11659.md)
 - [Sequence(2559)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/cumulative_sum/2559.md)
+- [Human-Computer Interaction(16139)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/cumulative_sum/16139.md)
 
 The questions I got wrong
 
