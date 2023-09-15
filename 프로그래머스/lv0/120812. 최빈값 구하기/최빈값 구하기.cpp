@@ -6,15 +6,16 @@ using namespace std;
 
 int solution(vector<int> array) {
     map<int,int> count;
-    pair<int,int> max{0,0};
-    pair<int, int> max2{0,0};
+    int answer{};
+    int maxNum{};
     for(const auto& e : array){
         count[e]++;
-        if(max.second < count[e]){
-            max = {e,count[e]};
-        }else if(max.second == count[e] && max.first != e){
-            max2 = {e,count[e]};
+        if(maxNum < count[e]){
+            maxNum = count[e];
+            answer = e;
+        }else if(maxNum == count[e]){
+            answer = -1;
         }
     }
-    return max.second == max2.second && max.first != max2.first ? -1 : max.first;
+    return answer;
 }
