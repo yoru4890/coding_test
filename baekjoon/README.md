@@ -27,6 +27,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 20. [backtracking(3/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/backtracking)
 21. [dynamic_programming_1(5/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_1)
 22. [prefix_sum(2/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/prefix_sum)
+23. [greedy_algorithm(~/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/greedy_algorithm)
 
 Algorithm Fundamentals and Intermediate
 --------------------
