@@ -4,13 +4,17 @@
 using namespace std;
 
 vector<int> solution(vector<int> arr, vector<int> query) {
+    vector<int> answer;
+    int start{},end{};
     for(int i{};const auto& e : query){
         if(i&1){
-            arr.erase(arr.begin(),arr.begin()+e);
+            start = start + e;
         }else{
-            arr.erase(arr.begin()+e+1,arr.end());
+            end = start+e;
         }
         i++;
     }
-    return arr;
+    
+    answer = vector<int>(arr.begin()+start,arr.begin()+end+1);
+    return answer;
 }
