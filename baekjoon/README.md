@@ -26,7 +26,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 19. [recursion(1/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/recursion)
 20. [backtracking(3/8)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/backtracking)
 21. [dynamic_programming_1(5/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_1)
-22. [cumulative_sum(~/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/cumulative_sum)
+22. [prefix_sum(2/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/prefix_sum)
 
 Algorithm Fundamentals and Intermediate
 --------------------
@@ -64,6 +64,7 @@ Important questions (⭐<🌟<☀️<🌙)
 - ⭐[Convert binary to octal(1373)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1373.md)
 - ⭐[Ascent Number(11057)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11057.md)
 - ⭐[Easy Stair Numbers(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/10844.md)
+- ⭐[Remainder Sum(10986)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/cumulative_sum/10986.md)
 
   
 </details>
@@ -97,6 +98,7 @@ Important questions (⭐<🌟<☀️<🌙)
 - 🌟🌟[Continuous Sum(1912)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/1912.md)
 - 🌟🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2156.md)
 - 🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2156.md)
+- 🌟🌟[Recolor the Chessboard 2(25682)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/prefix_sum/25682.md)
 
 
 </details>
