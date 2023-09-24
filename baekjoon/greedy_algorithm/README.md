@@ -9,6 +9,7 @@ List of questions
 - [Meeting Room Assignment(1931)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/greedy_algorithm/1931.md)
 - [ATM(11399)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/greedy_algorithm/11399.md)
 - [Lost Parenthesis(1541)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/greedy_algorithm/1541.md)
+- [Gas Station(13305)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/greedy_algorithm/13305.md)
 
 The questions I got wrong
 ----------------
