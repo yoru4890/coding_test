@@ -10,6 +10,7 @@ List of questions
 - [Number of Papers(1780)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/1780.md)
 - ☀️[Multiplication(1629)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/1629.md)
 - 🌓[Binomial Coefficient 3(11401)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/11401.md)
+- [Matrix Multiplication(2740)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/2740.md)
 
 The questions I got wrong
 ----------------------
