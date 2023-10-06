@@ -12,7 +12,7 @@ List of questions
 - 🌓[Binomial Coefficient 3(11401)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/11401.md)
 - [Matrix Multiplication(2740)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/2740.md)
 - [Matrix Power(10830)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/10830.md)
-- 🌙[Fibonacci Sequence(11444)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/11444.md)
+- 🌙[Fibonacci Sequence 6(11444)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/11444.md)
 
 The questions I got wrong
 ----------------------
