@@ -28,7 +28,8 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 21. [dynamic_programming_1(5/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_1)
 22. [prefix_sum(2/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/prefix_sum)
 23. [greedy_algorithm(1/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/greedy_algorithm)
-24. [divide_and_conquer(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/divide_and_conquer)
+24. [divide_and_conquer(4/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/divide_and_conquer)
+25. [binary_search(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/binary_search)
 
 Algorithm Fundamentals and Intermediate
 --------------------
@@ -36,7 +37,7 @@ Algorithm Fundamentals and Intermediate
 2. [algorithm_fundamentals_2(~/61)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_2)
 
 
-Important questions (⭐<🌟<☀️<🌙)
+Important questions (⭐<🌟<☀️<🌙<🌓)
 --------------
 
 <details>
@@ -129,6 +130,7 @@ Important questions (⭐<🌟<☀️<🌙)
 - ☀️☀️[Exciting Function Execution(9184)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9184.md)
 - ☀️☀️[Electric Wire(2565)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2565.md)
 - ☀️☀️☀️[LCS(9251)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9251.md)
+- ☀️[Multiplication(1629)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/1629.md)
   
 </details>
 
@@ -140,6 +142,15 @@ Important questions (⭐<🌟<☀️<🌙)
 - 🌙🌙🌙[Sudoku(2580)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/backtracking/2580.md)
 - 🌙🌙[Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/backtracking/14889.md)
 - 🌙🌙🌙[Ordinary Backpack(12865)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/12865.md)
+- 🌙[Fibonacci Sequence 6(11444)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/11444.md)
+- 🌙🌙🌙[Largest Rectangle in Histogram(6549)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/6549.md)
 
+
+</details>
+
+<details>
+<summary>🌓~🌓🌓🌓</summary>
+
+- 🌓[Binomial Coefficient 3(11401)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/11401.md)
 
 </details>
