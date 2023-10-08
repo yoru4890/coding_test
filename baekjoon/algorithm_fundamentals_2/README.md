@@ -77,6 +77,8 @@ List of questions
 
 ### Graph 1
 
+- ⭐[ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13023.md)
+
 ### Graph 1 (Practice)
 
 ### Graph 1 (Challenge)
@@ -94,3 +96,4 @@ The questions I got wrong
 - ☀️[N and M(9) (15663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15663.md)
 - [TSP 2(10971)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10971.md)
 - 🌙[Piece of Paper(14391)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14391.md)
+- ⭐[ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13023.md)
