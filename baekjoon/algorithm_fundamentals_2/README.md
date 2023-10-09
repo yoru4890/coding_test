@@ -79,6 +79,7 @@ List of questions
 
 - ⭐[ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13023.md)
 - ☀️[DFS and BFS(1260)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1260.md)
+- [Number of Connection Elements(11724)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/11724.md)
 
 ### Graph 1 (Practice)
 
