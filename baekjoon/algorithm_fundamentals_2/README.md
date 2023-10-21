@@ -83,6 +83,7 @@ List of questions
 - 🌟🌟[Biparite Graph(1707)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1707.md)
 - [Housing Complex Numbering(2667)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2667.md)
 - [Number of Islands(4963)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/4963.md)
+- 🌟🌟🌟[Maze Navigation(2178)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2178.md)
 
 ### Graph 1 (Practice)
 
@@ -104,3 +105,4 @@ The questions I got wrong
 - ⭐[ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13023.md)
 - ☀️[DFS and BFS(1260)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1260.md)
 - 🌟🌟[Biparite Graph(1707)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1707.md)
+- 🌟🌟🌟[Maze Navigation(2178)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2178.md)
