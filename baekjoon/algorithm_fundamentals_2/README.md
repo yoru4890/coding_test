@@ -85,6 +85,7 @@ List of questions
 - [Number of Islands(4963)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/4963.md)
 - 🌟🌟🌟[Maze Navigation(2178)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2178.md)
 - 🌟🌟[Tomato(7576)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/7576.md)
+- [Knight's Movement(7562)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/7562.md)
 
 ### Graph 1 (Practice)
 
