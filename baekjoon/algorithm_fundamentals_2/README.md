@@ -89,6 +89,8 @@ List of questions
 
 ### Graph 1 (Practice)
 
+- ☀️☀️[Two Dots(16929)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16929.md)
+
 ### Graph 1 (Challenge)
 
 ### BFS
