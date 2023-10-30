@@ -90,6 +90,7 @@ List of questions
 ### Graph 1 (Practice)
 
 - ☀️☀️[Two Dots(16929)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16929.md)
+- 🌓🌓🌓[Seoul Subway Line 2(16947)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16947.md)
 
 ### Graph 1 (Challenge)
 
@@ -110,3 +111,4 @@ The questions I got wrong
 - ☀️[DFS and BFS(1260)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1260.md)
 - 🌟🌟[Biparite Graph(1707)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1707.md)
 - 🌟🌟🌟[Maze Navigation(2178)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2178.md)
+- 🌓🌓🌓[Seoul Subway Line 2(16947)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16947.md)
