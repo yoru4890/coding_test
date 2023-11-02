@@ -94,6 +94,8 @@ List of questions
 
 ### Graph 1 (Challenge)
 
+- 🌓🌓[BFS Special Judge(16940)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16940.md)
+
 ### BFS
 
 ### Tree 1
@@ -112,3 +114,4 @@ The questions I got wrong
 - 🌟🌟[Biparite Graph(1707)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1707.md)
 - 🌟🌟🌟[Maze Navigation(2178)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2178.md)
 - 🌓🌓🌓[Seoul Subway Line 2(16947)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16947.md)
+- 🌓🌓[BFS Special Judge(16940)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16940.md)
