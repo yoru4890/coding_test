@@ -95,6 +95,7 @@ List of questions
 ### Graph 1 (Challenge)
 
 - 🌓🌓[BFS Special Judge(16940)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16940.md)
+- [DFS Special Judge(16964)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16964.md)
 
 ### BFS
 
