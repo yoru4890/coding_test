@@ -101,6 +101,7 @@ List of questions
 ### BFS
 
 - [Hide and Seek(1697)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1697.md)
+- 🌟🌟🌟[Hide and Seek 4(13913)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13913.md)
 
 ### Tree 1
 
@@ -120,3 +121,4 @@ The questions I got wrong
 - 🌓🌓🌓[Seoul Subway Line 2(16947)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16947.md)
 - 🌓🌓[BFS Special Judge(16940)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16940.md)
 - [Hide and Seek(1697)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1697.md)
+- 🌟🌟🌟[Hide and Seek 4(13913)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13913.md)
