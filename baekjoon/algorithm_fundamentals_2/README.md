@@ -104,6 +104,7 @@ List of questions
 - 🌟🌟🌟[Hide and Seek 4(13913)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13913.md)
 - 🌟🌟[Emoticon(14226)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14226.md)
 - ☀️[Hide and Seek 3(13549)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13549.md)
+- [Algospot(1261)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1261.md)
 
 ### Tree 1
 
