@@ -110,6 +110,7 @@ List of questions
 
 - [Tree Traversal(1991)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1991.md)
 - ☀️[Tree Height and Width(2250)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2250.md)
+- [Find the Tree's Parents(11725)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/11725.md)
 
 The questions I got wrong
 -------------
