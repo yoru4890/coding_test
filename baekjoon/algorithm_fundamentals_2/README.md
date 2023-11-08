@@ -109,6 +109,7 @@ List of questions
 ### Tree 1
 
 - [Tree Traversal(1991)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1991.md)
+- ☀️[Tree Height and Width(2250)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2250.md)
 
 The questions I got wrong
 -------------
@@ -128,3 +129,4 @@ The questions I got wrong
 - 🌟🌟🌟[Hide and Seek 4(13913)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13913.md)
 - 🌟🌟[Emoticon(14226)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14226.md)
 - ☀️[Hide and Seek 3(13549)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13549.md)
+- ☀️[Tree Height and Width(2250)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2250.md)
