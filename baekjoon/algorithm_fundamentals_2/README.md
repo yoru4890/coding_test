@@ -14,11 +14,11 @@ Contents
 - [Brute Force (Permutation)(1/6)](#brute-force-permutation)
 - [Brute Force (Recursion)(0/7)](#brute-force-recursion)
 - [Brute Force (BitMask)(1/4)](#brute-force-bitmask)
-- [Graph 1(~/9)](#graph-1)
-- [Graph 1 (Practice)(~/2)](#graph-1-practice)
-- [Graph 1 (Challenge)(~/3)](#graph-1-challenge)
-- [BFS(~/5)](#bfs)
-- [Tree 1(~/5)](#tree-1)
+- [Graph 1(4/9)](#graph-1)
+- [Graph 1 (Practice)(1/2)](#graph-1-practice)
+- [Graph 1 (Challenge)(1/3)](#graph-1-challenge)
+- [BFS(4/5)](#bfs)
+- [Tree 1(1/5)](#tree-1)
 
 List of questions
 ------------
@@ -112,6 +112,7 @@ List of questions
 - ☀️[Tree Height and Width(2250)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2250.md)
 - [Find the Tree's Parents(11725)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/11725.md)
 - ☀️☀️[Diameter of the Tree(1167)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1167.md)
+- [Diameter of the Tree(1967)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1967.md)
 
 The questions I got wrong
 -------------
