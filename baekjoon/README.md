@@ -34,7 +34,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 Algorithm Fundamentals and Intermediate
 --------------------
 1. [algorithm_fundamentals_1(24/69)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_1)
-2. [algorithm_fundamentals_2(~/61)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_2)
+2. [algorithm_fundamentals_2(16/61)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_2)
 
 
 Important questions (⭐<🌟<☀️<🌙<🌓)
@@ -68,6 +68,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - ⭐[Ascent Number(11057)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/11057.md)
 - ⭐[Easy Stair Numbers(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/10844.md)
 - ⭐[Remainder Sum(10986)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/cumulative_sum/10986.md)
+- ⭐[ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13023.md)
 
   
 </details>
@@ -102,6 +103,13 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - 🌟🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_1/2156.md)
 - 🌟[Wine Tasting(2156)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2156.md)
 - 🌟🌟[Recolor the Chessboard 2(25682)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/prefix_sum/25682.md)
+- 🌟🌟[Inequality Sign(2529)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2529.md)
+- 🌟🌟[Biparite Graph(1707)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1707.md)
+- 🌟🌟🌟[Maze Navigation(2178)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2178.md)
+- 🌟🌟[Tomato(7576)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/7576.md)
+- 🌟🌟[Building a Bridge(2146)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2146.md)
+- 🌟🌟🌟[Hide and Seek 4(13913)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13913.md)
+- 🌟🌟[Emoticon(14226)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14226.md)
 
 
 </details>
@@ -131,6 +139,15 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - ☀️☀️[Electric Wire(2565)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/2565.md)
 - ☀️☀️☀️[LCS(9251)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/9251.md)
 - ☀️[Multiplication(1629)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/1629.md)
+- ☀️[Remote Control(1107)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1107.md)
+- ☀️☀️☀️[Tetromino(14500)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14500.md)
+- ☀️[N and M(9) (15663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/15663.md)
+- ☀️[Lotto(6603)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/6603.md)
+- ☀️[DFS and BFS(1260)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1260.md)
+- ☀️☀️[Two Dots(16929)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16929.md)
+- ☀️[Hide and Seek 3(13549)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13549.md)
+- ☀️[Tree Height and Width(2250)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2250.md)
+- ☀️☀️[Diameter of the Tree(1167)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1167.md)
   
 </details>
 
@@ -144,6 +161,8 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - 🌙🌙🌙[Ordinary Backpack(12865)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/12865.md)
 - 🌙[Fibonacci Sequence 6(11444)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/11444.md)
 - 🌙🌙🌙[Largest Rectangle in Histogram(6549)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/6549.md)
+- 🌙🌙[Next Permutation(10972)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10972.md)
+- 🌙[Piece of Paper(14391)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14391.md)
 
 
 </details>
@@ -152,5 +171,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 <summary>🌓~🌓🌓🌓</summary>
 
 - 🌓[Binomial Coefficient 3(11401)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/divide_and_conquer/11401.md)
+- 🌓🌓🌓[Seoul Subway Line 2(16947)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16947.md)
+- 🌓🌓[BFS Special Judge(16940)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16940.md)
 
 </details>
