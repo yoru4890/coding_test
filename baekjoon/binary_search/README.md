@@ -10,9 +10,11 @@ List of questions
 - 🌟🌟🌟[Cut the LAN cable(1654)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1654.md)
 - [Cutting Trees(2805)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/2805.md)
 - ☀️☀️[Router Installation(2110)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/2110.md)
+- 🌙🌙[Kth Number(1300)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1300.md)
 
 The questions I got wrong
 ------------------
 
 - 🌟🌟🌟[Cut the LAN cable(1654)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1654.md)
 - ☀️☀️[Router Installation(2110)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/2110.md)
+- 🌙🌙[Kth Number(1300)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1300.md)
