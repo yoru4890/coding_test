@@ -4,3 +4,5 @@ Let's learn the binary search algorithm.
 
 List of questions
 ----------------
+
+- [Find Number(1920)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1920.md)
