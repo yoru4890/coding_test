@@ -31,7 +31,8 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 24. [divide_and_conquer(4/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/divide_and_conquer)
 25. [binary_search(3/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/binary_search)
 26. [priority_queue(0/3)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/priority_queue)
-27. [dynamic_programming_2(~/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_2)
+27. [dynamic_programming_2(2/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_2)
+28. [stack_2(~/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/stack_2)
 
 Algorithm Fundamentals and Intermediate
 --------------------
@@ -113,6 +114,8 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - 🌟🌟🌟[Hide and Seek 4(13913)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13913.md)
 - 🌟🌟[Emoticon(14226)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14226.md)
 - 🌟🌟🌟[Cut the LAN cable(1654)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1654.md)
+- 🌟🌟[Double Arm Scale(2629)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2629.md)
+- 🌟🌟🌟[Coin 1(2293)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2293.md)
 
 
 </details>
@@ -168,6 +171,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - 🌙🌙[Next Permutation(10972)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/10972.md)
 - 🌙[Piece of Paper(14391)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14391.md)
 - 🌙🌙[Kth Number(1300)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1300.md)
+- 🌙🌙[App(7579)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/7579.md)
 
 
 </details>
@@ -179,5 +183,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - 🌓🌓🌓[Seoul Subway Line 2(16947)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16947.md)
 - 🌓🌓[BFS Special Judge(16940)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/16940.md)
 - 🌓[Longest Increasing Subsequence 2(12015)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/12015.md)
+- 🌓🌓🌓[Merge Files(11066)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/11066.md)
+- 🌓🌓🌓[Downhill(1520)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/1520.md)
 
 </details>
