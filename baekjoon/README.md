@@ -31,7 +31,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 24. [divide_and_conquer(4/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/divide_and_conquer)
 25. [binary_search(3/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/binary_search)
 26. [priority_queue(0/3)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/priority_queue)
-27. [dynamic_programming_2(~/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/priority_queue)
+27. [dynamic_programming_2(~/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_2)
 
 Algorithm Fundamentals and Intermediate
 --------------------
