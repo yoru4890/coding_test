@@ -7,3 +7,4 @@ List of questions
 
 - [Max Heap(11279)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/priority_queue/11279.md)
 - [Min Heap(1927)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/priority_queue/1927.md)
+- [Absolute Value Heap(11286)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/priority_queue/11286.md)
