@@ -11,8 +11,10 @@ List of questions
 - 🌓🌓🌓[Downhill(1520)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/1520.md)
 - 🌟🌟[Double Arm Scale(2629)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2629.md)
 - 🌟🌟🌟[Coin 1(2293)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2293.md)
+- 🌙🌙[App(7579)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/7579.md)
 
 The questions I got wrong
 --------------------
 
 - 🌟🌟[Double Arm Scale(2629)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2629.md)
+- 🌙🌙[App(7579)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/7579.md)
