@@ -34,6 +34,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 27. [dynamic_programming_2(2/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_2)
 28. [stack_2(~/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/stack_2)
 29. [graphs_and_traversals(~/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/graphs_and_traversals)
+30. [shortest_path(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/shortest_path)
 
 Algorithm Fundamentals and Intermediate
 --------------------
