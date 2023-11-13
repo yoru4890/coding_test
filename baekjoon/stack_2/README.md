@@ -6,6 +6,7 @@ List of questions
 -------------------
 
 - 🌟🌟[String Explosion(9935)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_2/9935.md)
+- 🌓🌓🌓[Histogram(1725)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_2/1725.md)
 
 
 The questions I got wrong
