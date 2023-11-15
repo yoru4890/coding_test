@@ -36,6 +36,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 29. [graphs_and_traversals(~/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/graphs_and_traversals)
 30. [shortest_path(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/shortest_path)
 31. [two_pointers(~/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_pointers)
+32. [dynamic_programming_and_shortest_path_backtracking(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
 
 Algorithm Fundamentals and Intermediate
 --------------------
