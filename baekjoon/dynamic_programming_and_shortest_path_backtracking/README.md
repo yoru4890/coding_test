@@ -7,3 +7,4 @@ List of questions
 --------------------
 
 - ⭐[Make It One 2(12852)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_and_shortest_path_backtracking/12852.md)
+- 🌕🌕[Longest Increasing Subsequence 5(14003)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
