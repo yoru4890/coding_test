@@ -38,6 +38,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 31. [two_pointers(~/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_pointers)
 32. [dynamic_programming_and_shortest_path_backtracking(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
 33. [tree(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/tree)
+34. [union_find(~/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/union_find)
 
 Algorithm Fundamentals and Intermediate
 --------------------
