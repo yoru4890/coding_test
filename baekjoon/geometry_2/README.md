@@ -10,9 +10,11 @@ List of questions
 - [Radial Graph(25308)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/25308.md)
 - ☀️☀️[Line Segment Intersection(17386)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/17386.md)
 - 🌙[Line Segment Intersection 2(17387)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/17387.md)
+- 🌟🌟[Line Segment Intersection 3(20149)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/20149.md)
 
 The questions I got wrong
 -------------------------
 
 - ☀️☀️[Line Segment Intersection(17386)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/17386.md)
 - 🌙[Line Segment Intersection 2(17387)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/17387.md)
+- 🌟🌟[Line Segment Intersection 3(20149)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/20149.md)
