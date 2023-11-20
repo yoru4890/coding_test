@@ -30,6 +30,8 @@ List of questions
 
 ### Brute Force (Permutation) (Practice)
 
+- [Word Math(1339)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1339.md)
+
 ### Brute Force (Recursion) (Practice)
 
 ### Brute Force (Recursion) (Reference)
@@ -59,3 +61,5 @@ List of questions
 
 The questions I got wrong
 -------------
+
+- [Word Math(1339)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1339.md)
