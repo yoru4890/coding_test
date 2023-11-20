@@ -47,6 +47,7 @@ Algorithm Fundamentals and Intermediate
 --------------------
 1. [algorithm_fundamentals_1(24/69)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_1)
 2. [algorithm_fundamentals_2(16/61)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/algorithm_fundamentals_2)
+3. [intermediate_algorithms_1(~/89)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/intermediate_algorithms_1)
 
 
 Important questions (⭐<🌟<☀️<🌙<🌓)
