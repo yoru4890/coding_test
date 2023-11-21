@@ -10,7 +10,7 @@ Intermediate Algorithms 1
 Contents
 -----------------
 
-- [Brute Force (Permutation) (Practice)(~/4)](#brute-force-permutation-practice)
+- [Brute Force (Permutation) (Practice)(1/4)](#brute-force-permutation-practice)
 - [Brute Force (Recursion) (Practice)(~/12)](#brute-force-recursion-practice)
 - [Brute Force (Recursion) (Reference)(~/1)](#brute-force-recursion-reference)
 - [Brute Force (Bitmask) (Practice)(~/4)](#brute-force-bitmask-practice)
@@ -33,6 +33,7 @@ List of questions
 - [Inequality Sign(2529)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2529.md)
 - [Word Math(1339)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1339.md)
 - [Insert Operator(14888)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14888.md)
+- ⭐⭐[Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14889.md)
 
 
 ### Brute Force (Recursion) (Practice)
@@ -68,3 +69,4 @@ The questions I got wrong
 -------------
 
 - [Word Math(1339)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1339.md)
+- ⭐⭐[Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14889.md)
