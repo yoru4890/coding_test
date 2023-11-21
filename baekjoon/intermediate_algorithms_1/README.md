@@ -30,6 +30,7 @@ List of questions
 
 ### Brute Force (Permutation) (Practice)
 
+- [Inequality Sign(2529)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2529.md)
 - [Word Math(1339)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1339.md)
 - 🌟🌟[Two Coins(16197)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16197.md)
 
