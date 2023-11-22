@@ -13,3 +13,4 @@ List of questions
 - [DFS and BFS(1260)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/1260.md)
 - [House Numbering(2667)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2667.md)
 - [Organic Cabbage(1012)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/1012.md)
+- [Maze Exploration(2178)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2178.md)
