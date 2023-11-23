@@ -16,3 +16,4 @@ List of questions
 - [Maze Exploration(2178)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2178.md)
 - [Hide and Seek(1697)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/1697.md)
 - [Knight's Move(7562)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/7562.md)
+- [Tomato(7576)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/7576.md)
