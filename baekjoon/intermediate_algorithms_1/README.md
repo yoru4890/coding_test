@@ -38,6 +38,7 @@ List of questions
 
 ### Brute Force (Recursion) (Practice)
 
+- [Lotto(6603)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6603.md)
 - 🌟🌟[Two Coins(16197)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16197.md)
 - 🌙🌙[Alphabet(1987)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1987.md)
 
