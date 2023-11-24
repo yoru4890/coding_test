@@ -19,3 +19,9 @@ List of questions
 - [Tomato(7576)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/7576.md)
 - [Tomato(7569)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/7569.md)
 - [Snake and Ladder Game(16928)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/16928.md)
+- ⭐[Breaking Walls and Moving(2206)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2206.md)
+
+The questions I got wrong
+---------------------
+
+- ⭐[Breaking Walls and Moving(2206)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2206.md)
