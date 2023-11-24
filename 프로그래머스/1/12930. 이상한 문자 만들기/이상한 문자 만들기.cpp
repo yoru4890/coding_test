@@ -4,29 +4,18 @@
 using namespace std;
 
 string solution(string s) {
-    s+=' ';
-    string answer;
-    string temp;
-    for(const auto& e : s){
-        if(e != ' '){
-            temp+=e;
+    
+    for(int index{};auto& c : s){
+        if(c == ' '){
+            index = 0;
+            continue;
         }else{
-            for(int i{}; i<temp.size(); i++){
-                if(!(i&1)){
-                    if(temp[i]>='a'&&temp[i]<='z'){
-                        temp[i]+=('A'-'a');
-                    }
-                }else{
-                    if(temp[i]>='A' && temp[i]<='Z'){
-                        temp[i]+=('a'-'A');
-                    }
-                }
+            if(index++&1){
+                c = tolower(c);
+            }else{
+                c = toupper(c);
             }
-            answer += temp;
-            answer += ' ';
-            temp.clear();
         }
     }
-    answer.pop_back();
-    return answer;
+    return s;
 }
