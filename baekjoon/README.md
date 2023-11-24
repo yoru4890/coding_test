@@ -32,8 +32,8 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 25. [binary_search(3/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/binary_search)
 26. [priority_queue(0/3)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/priority_queue)
 27. [dynamic_programming_2(2/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_2)
-28. [stack_2(~/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/stack_2)
-29. [graphs_and_traversals(~/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/graphs_and_traversals)
+28. [stack_2(4/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/stack_2)
+29. [graphs_and_traversals(2/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/graphs_and_traversals)
 30. [shortest_path(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/shortest_path)
 31. [two_pointers(~/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_pointers)
 32. [dynamic_programming_and_shortest_path_backtracking(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
@@ -50,7 +50,7 @@ Algorithm Fundamentals and Intermediate
 3. [intermediate_algorithms_1(~/89)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/intermediate_algorithms_1)
 
 
-Important questions (⭐<🌟<☀️<🌙<🌓)
+Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 --------------
 
 <details>
@@ -82,6 +82,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - ⭐[Easy Stair Numbers(10844)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_1/10844.md)
 - ⭐[Remainder Sum(10986)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/cumulative_sum/10986.md)
 - ⭐[ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13023.md)
+- ⭐[Breaking Walls and Moving(2206)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2206.md)
 
   
 </details>
@@ -126,6 +127,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - 🌟🌟🌟[Cut the LAN cable(1654)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1654.md)
 - 🌟🌟[Double Arm Scale(2629)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2629.md)
 - 🌟🌟🌟[Coin 1(2293)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2293.md)
+- 🌟🌟[String Explosion(9935)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_2/9935.md)
 
 
 </details>
@@ -195,5 +197,13 @@ Important questions (⭐<🌟<☀️<🌙<🌓)
 - 🌓[Longest Increasing Subsequence 2(12015)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/12015.md)
 - 🌓🌓🌓[Merge Files(11066)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/11066.md)
 - 🌓🌓🌓[Downhill(1520)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/1520.md)
+- 🌓🌓🌓[Histogram(1725)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_2/1725.md)
+
+</details>
+
+<details>
+<summary>🌕~🌕🌕🌕</summary>
+
+- 🌕[Oasis Reunion(3015)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_2/3015.md)
 
 </details>
