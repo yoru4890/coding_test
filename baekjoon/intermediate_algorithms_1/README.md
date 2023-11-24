@@ -40,6 +40,7 @@ List of questions
 
 - [Lotto(6603)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6603.md)
 - [Sum of Subsequences(1182)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1182.md)
+- [Sum of Subsequences(14225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14225.md)
 - 🌟🌟[Two Coins(16197)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16197.md)
 - 🌙🌙[Alphabet(1987)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1987.md)
 
@@ -73,3 +74,4 @@ The questions I got wrong
 
 - [Word Math(1339)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1339.md)
 - ⭐⭐[Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14889.md)
+- [Sum of Subsequences(14225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14225.md)
