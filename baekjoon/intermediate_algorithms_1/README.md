@@ -41,6 +41,8 @@ List of questions
 - [Lotto(6603)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6603.md)
 - [Sum of Subsequences(1182)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1182.md)
 - [Sum of Subsequences(14225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14225.md)
+- [Insert Operator(14888)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14888.md)
+- [Insert Operator 2(15658)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/15658.md)
 - 🌟🌟[Two Coins(16197)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16197.md)
 - 🌙🌙[Alphabet(1987)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1987.md)
 
