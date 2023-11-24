@@ -20,8 +20,10 @@ List of questions
 - [Tomato(7569)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/7569.md)
 - [Snake and Ladder Game(16928)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/16928.md)
 - ⭐[Breaking Walls and Moving(2206)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2206.md)
+- [Bipartite Graph(1707)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/1707.md)
 
 The questions I got wrong
 ---------------------
 
 - ⭐[Breaking Walls and Moving(2206)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2206.md)
+- [Bipartite Graph(1707)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/1707.md)
