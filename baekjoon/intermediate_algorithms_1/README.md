@@ -46,7 +46,8 @@ List of questions
 - [Tetromino(14500)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14500.md)
 - 🌟🌟[Two Coins(16197)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16197.md)
 - ⭐[Energy Gathering(16198)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16198.md)
-- [N-Queen(9663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/9663.md)
+- ⭐[N-Queen(9663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/9663.md)
+- ⭐[Sudoku(2580)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2580.md)
 - 🌙🌙[Alphabet(1987)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1987.md)
 
 ### Brute Force (Recursion) (Reference)
@@ -81,4 +82,5 @@ The questions I got wrong
 - ⭐⭐[Start and Link(14889)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14889.md)
 - [Sum of Subsequences(14225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14225.md)
 - ⭐[Energy Gathering(16198)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16198.md)
-- [N-Queen(9663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/9663.md)
+- ⭐[N-Queen(9663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/9663.md)
+- ⭐[Sudoku(2580)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2580.md)
