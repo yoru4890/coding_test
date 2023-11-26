@@ -11,7 +11,7 @@ Contents
 -----------------
 
 - [Brute Force (Permutation) (Practice)(1/4)](#brute-force-permutation-practice)
-- [Brute Force (Recursion) (Practice)(~/12)](#brute-force-recursion-practice)
+- [Brute Force (Recursion) (Practice)(4/12)](#brute-force-recursion-practice)
 - [Brute Force (Recursion) (Reference)(~/1)](#brute-force-recursion-reference)
 - [Brute Force (Bitmask) (Practice)(~/4)](#brute-force-bitmask-practice)
 - [BFS (Practice)(~/16)](#bfs-practice)
@@ -48,6 +48,7 @@ List of questions
 - ⭐[Energy Gathering(16198)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16198.md)
 - ⭐[N-Queen(9663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/9663.md)
 - ⭐[Sudoku(2580)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2580.md)
+- ⭐[Sudominoku(4574)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/4574.md)
 - 🌙🌙[Alphabet(1987)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1987.md)
 
 ### Brute Force (Recursion) (Reference)
