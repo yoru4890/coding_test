@@ -6,9 +6,11 @@ List of questions
 -------------------
 
 - ☀️☀️☀️[Shortest Path(1753)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/1753.md)
+- 🌟🌟[Specific Shortest Path(1504)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/1504.md)
 
 
 The questions I got wrong
 --------------------------
 
 - ☀️☀️☀️[Shortest Path(1753)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/1753.md)
+- 🌟🌟[Specific Shortest Path(1504)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/1504.md)
