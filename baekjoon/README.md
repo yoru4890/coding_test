@@ -34,7 +34,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 27. [dynamic_programming_2(2/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_2)
 28. [stack_2(4/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/stack_2)
 29. [graphs_and_traversals(2/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/graphs_and_traversals)
-30. [shortest_path(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/shortest_path)
+30. [shortest_path(3/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/shortest_path)
 31. [two_pointers(~/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_pointers)
 32. [dynamic_programming_and_shortest_path_backtracking(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
 33. [tree(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/tree)
@@ -128,6 +128,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - 🌟🌟[Double Arm Scale(2629)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2629.md)
 - 🌟🌟🌟[Coin 1(2293)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2293.md)
 - 🌟🌟[String Explosion(9935)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_2/9935.md)
+- 🌟🌟[Specific Shortest Path(1504)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/1504.md)
 
 
 </details>
@@ -167,6 +168,9 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - ☀️[Tree Height and Width(2250)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/2250.md)
 - ☀️☀️[Diameter of the Tree(1167)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/1167.md)
 - ☀️☀️[Router Installation(2110)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/2110.md)
+- ☀️☀️☀️[Shortest Path(1753)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/1753.md)
+- ☀️[Time Machine(11657)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/11657.md)
+- ☀️[Floyd(11404)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/11404.md)
   
 </details>
 
