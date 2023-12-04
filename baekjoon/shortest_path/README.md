@@ -11,6 +11,7 @@ List of questions
 - [Unconfirmed Destination(9370)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/9370.md)
 - ☀️[Time Machine(11657)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/11657.md)
 - ☀️[Floyd(11404)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/11404.md)
+- [Exercise(1956)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/1956.md)
 
 
 The questions I got wrong
