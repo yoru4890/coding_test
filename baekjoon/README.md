@@ -35,7 +35,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 28. [stack_2(4/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/stack_2)
 29. [graphs_and_traversals(2/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/graphs_and_traversals)
 30. [shortest_path(3/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/shortest_path)
-31. [two_pointers(~/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_pointers)
+31. [two_pointers(0/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_pointers)
 32. [dynamic_programming_and_shortest_path_backtracking(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
 33. [tree(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/tree)
 34. [union_find(~/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/union_find)
@@ -171,6 +171,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - ☀️☀️☀️[Shortest Path(1753)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/1753.md)
 - ☀️[Time Machine(11657)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/11657.md)
 - ☀️[Floyd(11404)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/11404.md)
+- ☀️☀️[Knapsack Problem(1450)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/two_pointers/1450.md)
   
 </details>
 
