@@ -36,7 +36,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 29. [graphs_and_traversals(2/16)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/graphs_and_traversals)
 30. [shortest_path(3/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/shortest_path)
 31. [two_pointers(0/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_pointers)
-32. [dynamic_programming_and_shortest_path_backtracking(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
+32. [dynamic_programming_and_shortest_path_backtracking(2/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
 33. [tree(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/tree)
 34. [union_find(~/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/union_find)
 35. [mst(~/6](https://github.com/yoru4890/coding_test/tree/main/baekjoon/mst)
@@ -83,6 +83,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - ⭐[Remainder Sum(10986)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/cumulative_sum/10986.md)
 - ⭐[ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13023.md)
 - ⭐[Breaking Walls and Moving(2206)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2206.md)
+- ⭐[Make It One 2(12852)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_and_shortest_path_backtracking/12852.md)
 
   
 </details>
@@ -172,6 +173,8 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - ☀️[Time Machine(11657)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/11657.md)
 - ☀️[Floyd(11404)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/11404.md)
 - ☀️☀️[Knapsack Problem(1450)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/two_pointers/1450.md)
+- ☀️[LCS 2(9252)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_and_shortest_path_backtracking/9252.md)
+- ☀️[DSLR(9019)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_and_shortest_path_backtracking/9019.md)
   
 </details>
 
@@ -210,5 +213,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 <summary>🌕~🌕🌕🌕</summary>
 
 - 🌕[Oasis Reunion(3015)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_2/3015.md)
+- 🌕🌕[Longest Increasing Subsequence 5(14003)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
+- 🌕🌕[Police Car(2618)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_and_shortest_path_backtracking/2618.md)
 
 </details>
