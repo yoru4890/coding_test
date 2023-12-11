@@ -37,7 +37,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 30. [shortest_path(3/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/shortest_path)
 31. [two_pointers(0/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_pointers)
 32. [dynamic_programming_and_shortest_path_backtracking(2/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
-33. [tree(~/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/tree)
+33. [tree(0/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/tree)
 34. [union_find(~/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/union_find)
 35. [mst(~/6](https://github.com/yoru4890/coding_test/tree/main/baekjoon/mst)
 36. [DP_on_trees(~/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/DP_on_trees)
@@ -84,6 +84,8 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - ⭐[ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/13023.md)
 - ⭐[Breaking Walls and Moving(2206)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/graphs_and_traversals/2206.md)
 - ⭐[Make It One 2(12852)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_and_shortest_path_backtracking/12852.md)
+- ⭐[Binary Search Tree(5639)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/tree/5639.md)
+- ⭐[Tree(4803)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/tree/4803.md)
 
   
 </details>
@@ -192,6 +194,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - 🌙[Piece of Paper(14391)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/algorithm_fundamentals_2/14391.md)
 - 🌙🌙[Kth Number(1300)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1300.md)
 - 🌙🌙[App(7579)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/7579.md)
+- 🌙🌙[Traversal of a Tree(2263)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/tree/2263.md)
 
 
 </details>
