@@ -4,18 +4,16 @@
 using namespace std;
 
 int solution(int n, int m, vector<int> section) {
-    int answer{};
-    int index{};
-    int paint{section[index]};
-    while(index < section.size()){
-        answer++;
-        paint+=m;
-        while(paint>section[index]){
-            index++;
-            if(index >= section.size()){return answer;}
+    int answer{1};
+    int paint{section[0]};
+    
+    for(const auto& e : section){
+        if(paint + m > e){continue;}
+        else{
+            paint = e;
+            answer++;
         }
-        paint = section[index];
-        
     }
+    
     return answer;
 }
