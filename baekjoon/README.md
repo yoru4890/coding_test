@@ -38,7 +38,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 31. [two_pointers(0/5)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/two_pointers)
 32. [dynamic_programming_and_shortest_path_backtracking(2/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/dynamic_programming_and_shortest_path_backtracking)
 33. [tree(0/7)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/tree)
-34. [union_find(~/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/union_find)
+34. [union_find(1/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/union_find)
 35. [mst(~/6](https://github.com/yoru4890/coding_test/tree/main/baekjoon/mst)
 36. [DP_on_trees(~/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/DP_on_trees)
 37. [geometry_2(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/geometry_2)
@@ -86,6 +86,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - ⭐[Make It One 2(12852)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_and_shortest_path_backtracking/12852.md)
 - ⭐[Binary Search Tree(5639)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/tree/5639.md)
 - ⭐[Tree(4803)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/tree/4803.md)
+- ⭐[Friend Network(4195)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/union_find/4195.md)
 
   
 </details>
