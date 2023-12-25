@@ -13,6 +13,7 @@ List of questions
 - 🌟🌟[Line Segment Intersection 3(20149)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/20149.md)
 - ☀️[Line Segment Group(2162)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/2162.md)
 - ⭐[Two Circles(7869)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/7869.md)
+- 🌟[To Home(1069)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/1069.md)
 
 The questions I got wrong
 -------------------------
