@@ -41,7 +41,7 @@ Solve it step by step (Wrong Questions / Total Number of Questions)
 34. [union_find(1/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/union_find)
 35. [mst(2/6)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/mst)
 36. [DP_on_trees(1/4)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/DP_on_trees)
-37. [geometry_2(~/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/geometry_2)
+37. [geometry_2(4/9)](https://github.com/yoru4890/coding_test/tree/main/baekjoon/geometry_2)
 
 Algorithm Fundamentals and Intermediate
 --------------------
@@ -89,6 +89,8 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - ⭐[Friend Network(4195)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/union_find/4195.md)
 - ⭐⭐[Creating Constellations(4386)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/mst/4386.md)
 - ⭐[Tree and Query(15681)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/DP_on_trees/15681.md)
+- ⭐[Area of a Polygon(2166)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/2166.md)
+- ⭐[Two Circles(7869)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/7869.md)
 
   
 </details>
@@ -135,6 +137,8 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - 🌟🌟🌟[Coin 1(2293)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/2293.md)
 - 🌟🌟[String Explosion(9935)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/stack_2/9935.md)
 - 🌟🌟[Specific Shortest Path(1504)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/shortest_path/1504.md)
+- 🌟🌟[Line Segment Intersection 3(20149)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/20149.md)
+- 🌟[To Home(1069)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/1069.md)
 
 
 </details>
@@ -182,6 +186,8 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - ☀️[DSLR(9019)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_and_shortest_path_backtracking/9019.md)
 - ☀️☀️☀️[Minimum Spanning Tree(1197)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/mst/1197.md)
 - ☀️☀️[Independent Set of Trees(2213)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/DP_on_trees/2213.md)
+- ☀️☀️[Line Segment Intersection(17386)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/17386.md)
+- ☀️[Line Segment Group(2162)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/2162.md)
   
 </details>
 
@@ -200,6 +206,7 @@ Important questions (⭐<🌟<☀️<🌙<🌓<🌕)
 - 🌙🌙[Kth Number(1300)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/binary_search/1300.md)
 - 🌙🌙[App(7579)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/dynamic_programming_2/7579.md)
 - 🌙🌙[Traversal of a Tree(2263)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/tree/2263.md)
+- 🌙[Line Segment Intersection 2(17387)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/geometry_2/17387.md)
 
 
 </details>
