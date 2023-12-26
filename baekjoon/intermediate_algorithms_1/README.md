@@ -12,7 +12,7 @@ Contents
 
 - [Brute Force (Permutation) (Practice)(1/4)](#brute-force-permutation-practice)
 - [Brute Force (Recursion) (Practice)(4/12)](#brute-force-recursion-practice)
-- [Brute Force (Recursion) (Reference)(~/1)](#brute-force-recursion-reference)
+- [Brute Force (Recursion) (Reference)(0/1)](#brute-force-recursion-reference)
 - [Brute Force (Bitmask) (Practice)(~/4)](#brute-force-bitmask-practice)
 - [BFS (Practice)(~/16)](#bfs-practice)
 - [Greedy Algorithm(~/9)](#greedy-algorithm)
@@ -52,6 +52,8 @@ List of questions
 - 🌙🌙[Alphabet(1987)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1987.md)
 
 ### Brute Force (Recursion) (Reference)
+
+- [Resignation(14501)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14501.md)
 
 ### Brute Force (Bitmask) (Practice)
 
