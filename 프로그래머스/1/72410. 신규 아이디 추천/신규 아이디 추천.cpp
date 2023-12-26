@@ -21,15 +21,11 @@ string solution(string new_id) {
     }
     new_id = temp;
     
-    if(!new_id.empty()){
-        if(new_id[0] == '.'){
-            new_id = new_id.substr(1);
-        }
+    if(new_id.front() == '.'){
+        new_id.erase(new_id.begin());
     }
-    if(!new_id.empty()){
-        if(new_id.back() == '.'){
-            new_id = new_id.substr(0,new_id.size()-1);
-        }
+    if(new_id.back() == '.'){
+        new_id.pop_back();
     }
     
     if(new_id.empty()){
@@ -39,7 +35,7 @@ string solution(string new_id) {
     if(new_id.size() >=16){
         new_id = new_id.substr(0,15);
         if(new_id.back() == '.'){
-            new_id = new_id.substr(0,new_id.size()-1);
+            new_id.pop_back();
         }
     }
     
