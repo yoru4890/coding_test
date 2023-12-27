@@ -4,15 +4,13 @@
 
 using namespace std;
 
-vector<bool> alphabet(26);
-
 vector<int> wordsConvertInt;
 
 int K{}, maxCount{};
 
-void Travel(int cur, int letter);
+void Travel(int cur, int letter, int num);
 
-void Check();
+void Check(int num);
 
 int main()
 {
@@ -21,20 +19,16 @@ int main()
     cout.tie(NULL);
 
     vector<char> letters{ 'a','n','t','i','c' };
-    for (const auto& c : letters)
-    {
-        alphabet[c - 'a'] = true;
-    }
 
-    int N{};
+    int N{}, num{};
     cin >> N >> K;
+
+    for (const auto& c : letters) { num |= (1 << c - 'a'); }
 
     vector<string> words(N);
     for (auto& s : words) { cin >> s; }
     
     if (K < 5) { cout << 0; return 0; }
-
-    K -= 5;
 
     wordsConvertInt.resize(N);
     for (int index{};const auto& s : words)
@@ -47,40 +41,31 @@ int main()
         index++;
     }
 
-    Travel(0, 0);
+    Travel(5, 0, num);
 
     cout << maxCount;
 }
 
-void Travel(int cur, int letter)
+void Travel(int cur, int letter, int num)
 {
     if (cur >= K || letter >= 26)
     {
-        Check();
+        Check(num);
         return;
     }
 
-    if (!alphabet[letter])
+    for (int i{ letter }; i < 26; i++)
     {
-        alphabet[letter] = true;
-        Travel(cur + 1, letter + 1);
-        alphabet[letter] = false;
-    }
+        if (num & (1 << i)) { continue; }
 
-    Travel(cur, letter + 1);
+        Travel(cur + 1, i + 1, num |(1 << i));
+    }
     
 }
 
-void Check()
+void Check(int num)
 {
-    int num{}, temp{};
-    for (int i{}; i < alphabet.size(); i++)
-    {
-        if (alphabet[i])
-        {
-            num |= (1 << i);
-        }
-    }
+    int temp{};
 
     for (const auto& e : wordsConvertInt)
     {
