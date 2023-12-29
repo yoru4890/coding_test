@@ -7,29 +7,17 @@ using namespace std;
 string solution(vector<string> survey, vector<int> choices) {
     string answer ;
     unordered_map<char,int> points;
+    
     for(int i{};const auto& s : survey){
-        points[s[0]]+= (4 - choices[i]);
+        points[s[0]]+= 4-choices[i];
         i++;
     }
-    if(points['R'] >= points['T']){
-        answer += 'R';
-    }else{
-        answer += 'T';
-    }
-    if(points['C'] >= points['F']){
-        answer += 'C';
-    }else{
-        answer += 'F';
-    }
-    if(points['J'] >= points['M']){
-        answer += 'J';
-    }else{
-        answer += 'M';
-    }
-    if(points['A'] >= points['N']){
-        answer += 'A';
-    }else{
-        answer += 'N';
-    }
+    
+    answer += points['R'] >= points['T'] ? 'R' : 'T';
+    answer += points['C'] >= points['F'] ? 'C' : 'F';
+    answer += points['J'] >= points['M'] ? 'J' : 'M';
+    answer += points['A'] >= points['N'] ? 'A' : 'N';
+    
+    
     return answer;
 }
