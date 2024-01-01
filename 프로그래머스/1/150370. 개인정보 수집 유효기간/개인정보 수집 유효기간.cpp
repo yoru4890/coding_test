@@ -1,5 +1,6 @@
 #include <string>
 #include <vector>
+#include <sstream>
 
 using namespace std;
 
@@ -7,42 +8,26 @@ vector<int> solution(string today, vector<string> terms, vector<string> privacie
     vector<int> answer;
     vector<int> alphabets(26);
     vector<int> period;
-    int todayNum{};
-    string toYear;
-    string toMonth;
-    string toDay;
-    toYear += today[2];
-    toYear += today[3];
-    toMonth += today[5];
-    toMonth += today[6];
-    toDay += today[8];
-    toDay += today[9];
-    todayNum = stoi(toYear)*12 + stoi(toMonth);
-  
+    stringstream ss;
+    
+    int todayNum{stoi(today.substr(2,2))*12 + stoi(today.substr(5,2))};
+
     for(const auto& e : terms){
-        string temp{};
-        for(int i{2}; e[i]!='\0';i++){
-            temp += e[i];
-        }
-        alphabets[e[0]-'A'] = stoi(temp);
+        ss.clear();
+        ss << e;
+        char c;
+        int day;
+        ss >> c >> day;
+        alphabets[c-'A'] = day;
     }
     
     for(int index{1};const auto& e : privacies){
-        string year, month, day;
-        char temp;
-        year += e[2];
-        year += e[3];
-        month += e[5];
-        month += e[6];
-        day += e[8];
-        day += e[9];
-        temp = e[11];
+        int num(stoi(e.substr(2,2)) * 12 + stoi(e.substr(5,2)) + alphabets[e[11]-'A']);
         
-        int num(stoi(year) * 12 + stoi(month) + alphabets[temp-'A']);
         if(num < todayNum){
             answer.push_back(index);
         }else if( num == todayNum){
-            if(day <= toDay){
+            if(e.substr(8,2) <= today.substr(8,2)){
                 answer.push_back(index);
             }
         }
