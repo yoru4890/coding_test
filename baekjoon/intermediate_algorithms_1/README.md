@@ -60,6 +60,7 @@ List of questions
 - [Sum of Subsequences(14225)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14225.md)
 - 🌟[Teaching(1062)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1062.md)
 - ☀️[Marvel Escape 2(13460)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/13460.md)
+- ☀️[2048(Easy)(12100)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/12100.md)
 
 ### BFS (Practice)
 
