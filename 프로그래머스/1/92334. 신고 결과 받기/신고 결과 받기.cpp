@@ -27,10 +27,10 @@ vector<int> solution(vector<string> id_list, vector<string> report, int k) {
             reportCount[nameList[B]]++;
         } 
     }
-    for(const auto& row : whoReport){
+    for(const auto& map : whoReport){
         int num{};
-        for(const auto& e : row){
-            if(reportCount[nameList[e.first]] >= k){
+        for(const auto& [key,value] : map){
+            if(reportCount[nameList[key]] >= k){
                 num++;
             }
         }
