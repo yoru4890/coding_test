@@ -1,18 +1,15 @@
 #include <string>
 #include <vector>
+#include <cmath>
 
 using namespace std;
 
 vector<int> solution(int brown, int yellow) {
-    int total{brown + yellow};
-    for(int i{3}; i<total; i++){
-        if(!(total%i)){
-            for(int j{i-2}; j>0; j--){
-                if(!(yellow%j)){
-                    if((yellow/j) + 2 <= total/i){
-                        return {total/i, i};
-                    }
-                }
+    int AddRowCol{(brown-4)/2};
+    for(int i{1}; i<=sqrt(yellow); i++){
+        if(!(yellow%i)){
+            if(i + yellow/i == AddRowCol){
+                return {yellow/i+2,i+2};
             }
         }
     }
