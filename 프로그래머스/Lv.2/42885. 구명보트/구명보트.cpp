@@ -1,43 +1,19 @@
 #include <string>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
 int solution(vector<int> people, int limit) {
     int answer{};
-    vector<int> weightCount(241);
-    for(const auto& e : people)
+    sort(people.begin(),people.end(),greater<int>());
+    int size = people.size();
+    for(int i{}, j{size-1}; i<=j; i++)
     {
-        weightCount[e]++;
+        if(people[i] + people[j] <= limit) j--;
+        
+        answer++;
     }
     
-    for(int i{limit}; i>limit/2; i--)
-    {
-        int temp{limit - i};
-        while(weightCount[i])
-        {
-            if(temp < 40)
-            {
-                answer += weightCount[i];
-                weightCount[i] = 0;
-            }else if(weightCount[temp])
-            {               
-                weightCount[i]--;
-                weightCount[temp]--;
-                answer++;     
-            }else
-            {
-                temp--;
-            }
-            
-        }
-    }
-    
-    int size{};
-    for(int i{}; i<=limit/2; i++)
-    {
-        size += weightCount[i];
-    }
-    
-    return answer + size/2 + size%2;
+    return answer;
 }
