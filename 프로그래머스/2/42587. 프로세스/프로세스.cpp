@@ -7,67 +7,31 @@ using namespace std;
 int solution(vector<int> priorities, int location) {
     int answer{1};
     queue<pair<int,int>> temp;
-    queue<pair<int,int>> temp2;
+    priority_queue<int> process;
     for(int index{};const auto& e : priorities)
     {
-        temp.emplace(make_pair(e,index));
-        index++;
+        temp.emplace(make_pair(e,index++));
+        process.emplace(e);
     }
-    
-    while(!temp.empty() || !temp2.empty())
+
+    while(!temp.empty())
     {
-        if(temp.empty())
+        if(temp.front().first != process.top())
         {
-            while(!temp2.empty())
-            {
-                if(temp.empty() || temp.front().first >= temp2.front().first)
-                {
-                    temp.emplace(temp2.front());
-                    temp2.pop();
-                }else
-                {
-                    while(!temp.empty())
-                    {
-                        temp2.emplace(temp.front());
-                        temp.pop();
-                    }
-                    temp.emplace(temp2.front());
-                    temp2.pop();
-                }
-            }
-            if(temp.front().second == location)
-            {
-                return answer;
-            }
-            
+            temp.emplace(temp.front());
             temp.pop();
-        }else
+        }else if(temp.front().first == process.top() && priorities[temp.front().second] == process.top())
         {
-            while(!temp.empty())
-            {
-                if(temp2.empty() || temp2.front().first >= temp.front().first)
-                {
-                    temp2.emplace(temp.front());
-                    temp.pop();
-                }else
-                {
-                    while(!temp2.empty())
-                    {
-                        temp.emplace(temp2.front());
-                        temp2.pop();
-                    }
-                    temp2.emplace(temp.front());
-                    temp.pop();
-                }
-            }
-            if(temp2.front().second == location)
+            if(location == temp.front().second)
             {
                 return answer;
+            }else
+            {
+                temp.pop();
+                process.pop();
+                answer++;
             }
-            
-            temp2.pop();
         }
-        answer++;
     }
     
     return answer;
