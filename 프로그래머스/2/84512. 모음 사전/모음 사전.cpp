@@ -4,36 +4,30 @@
 
 using namespace std;
 
-int index{};
-string s{"AEIOU"};
+string s{ "AEIOU" };
 
-void DFS(unordered_map<string,int>& dic, string result, int deep);
+const int MAXSIZE = s.size();
 
 int solution(string word) {
     int answer{};
+    int wordSize = word.size();
+    unordered_map<char, int> index;
+    vector<int> counts;
     
-    unordered_map<string,int> dic;
-    
-    DFS(dic, "", 0);
-    
-    return dic[word];
-}
-
-void DFS(unordered_map<string,int>& dic, string result, int deep)
-{
-    if(deep > 5)
+    for(int i{};const auto& c : s)
     {
-        return;
+        index[c] = i++; 
     }
     
-    if(!dic[result])
+    for(int i{}, j{ 1 }, k{ MAXSIZE } ; i<MAXSIZE ; i++, j += k, k *= MAXSIZE)
     {
-        dic[result] = index++;
+        counts.push_back(j);
     }
     
-    for(const auto& c : s)
+    for(int i{}, j{ MAXSIZE-1 }; i<wordSize ; i++, j--)
     {
-        DFS(dic,result+c, deep+1);
+        answer += index[word[i]] * counts[j] + 1;
     }
     
+    return answer;
 }
