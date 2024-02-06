@@ -64,6 +64,8 @@ List of questions
 
 ### BFS (Practice)
 
+- Snake and Ladder Game(16928)
+
 ### Greedy Algorithm
 
 ### Greedy Algorithm (Practice)
