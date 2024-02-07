@@ -64,7 +64,8 @@ List of questions
 
 ### BFS (Practice)
 
-- Snake and Ladder Game(16928)
+- [Snake and Ladder Game(16928)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16928.md)
+- Death Knight(16948)
 
 ### Greedy Algorithm
 
