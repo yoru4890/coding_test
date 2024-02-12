@@ -17,10 +17,10 @@ int solution(vector<int> topping) {
         {
             countOne++;
         }
-        
+
         one[e]++;
     }
-    
+
     for(int i{size-1}; i>0; i--)
     {
         one[topping[i]]--;
@@ -28,13 +28,13 @@ int solution(vector<int> topping) {
         {
             countOne--;
         }
-        
+
         if(!two[topping[i]])
         {
             countTwo++;
         }
         two[topping[i]]++;
-        
+
         if(countOne == countTwo)
         {
             answer++;
