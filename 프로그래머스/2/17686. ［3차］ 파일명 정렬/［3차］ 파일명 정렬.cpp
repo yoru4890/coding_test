@@ -4,34 +4,28 @@
 
 using namespace std;
 
-struct MyFile
-{
-    string mName;
-    int mIndex;
-};
-
-bool CompareFile(const MyFile& a, const MyFile& b)
+bool CompareFile(const string& a, const string& b)
 {
     string headA, headB;
     int cutA{}, cutB{};
     string sNumA, sNumB;
     
-    while(!isdigit(a.mName[cutA])) cutA++;
-    while(!isdigit(b.mName[cutB])) cutB++;
+    while(!isdigit(a[cutA])) cutA++;
+    while(!isdigit(b[cutB])) cutB++;
     
-    headA = a.mName.substr(0,cutA);
-    headB = b.mName.substr(0,cutB);
+    headA = a.substr(0,cutA);
+    headB = b.substr(0,cutB);
     
-    for(int i{cutA}; i<a.mName.size(); i++)
+    for(int i{cutA}; i<a.size(); i++)
     {
-        if(!isdigit(a.mName[i])) break;
-        sNumA.push_back(a.mName[i]);
+        if(!isdigit(a[i])) break;
+        sNumA.push_back(a[i]);
     }
     
-    for(int i{cutB}; i<b.mName.size(); i++)
+    for(int i{cutB}; i<b.size(); i++)
     {
-        if(!isdigit(b.mName[i])) break;
-        sNumB.push_back(b.mName[i]);
+        if(!isdigit(b[i])) break;
+        sNumB.push_back(b[i]);
     }
     
     for(auto& c : headA)
@@ -46,29 +40,12 @@ bool CompareFile(const MyFile& a, const MyFile& b)
     
     int numA{stoi(sNumA)}, numB{stoi(sNumB)};
     
-    return headA == headB ? (numA == numB ? a.mIndex < b.mIndex : numA < numB) : headA < headB;
+    return headA == headB ? numA < numB : headA < headB;
 }
 
 vector<string> solution(vector<string> files) {
     
-    int size = files.size();
-    
-    vector<string> answer;
-    
-    vector<MyFile> myFiles(size);
-    
-    for(int i{}; i<files.size(); i++)
-    {
-        myFiles[i].mName = files[i];
-        myFiles[i].mIndex = i;
-    }
-    
-    sort(myFiles.begin(),myFiles.end(), CompareFile);
-    
-    for(const auto& e : myFiles)
-    {
-        answer.push_back(e.mName);
-    }
-    
-    return answer;
+    stable_sort(files.begin(),files.end(), CompareFile);
+
+    return files;
 }
