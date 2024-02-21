@@ -67,7 +67,8 @@ List of questions
 - [Snake and Ladder Game(16928)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16928.md)
 - [Death Knight(16948)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16948.md)
 - [DSLR(9019)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/9019.md)
-- [Lab(14502)]()
+- [Lab(14502)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14502.md)
+- [Stone Group(12886)]()
 
 ### Greedy Algorithm
 
