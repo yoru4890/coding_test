@@ -68,7 +68,8 @@ List of questions
 - [Death Knight(16948)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16948.md)
 - [DSLR(9019)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/9019.md)
 - [Lab(14502)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14502.md)
-- [Stone Group(12886)]()
+- [Stone Group(12886)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/12886.md)
+- [Break Through the Wall and Move(2206)]()
 
 ### Greedy Algorithm
 
