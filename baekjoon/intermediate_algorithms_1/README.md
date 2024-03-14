@@ -69,7 +69,8 @@ List of questions
 - [DSLR(9019)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/9019.md)
 - [Lab(14502)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14502.md)
 - [Stone Group(12886)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/12886.md)
-- [Break Through the Wall and Move(2206)]()
+- [Break Through the Wall and Move(2206)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2206.md)
+- [Break Through the Wall and Move 4(16946)]()
 
 ### Greedy Algorithm
 
