@@ -73,7 +73,8 @@ List of questions
 - [Break Through the Wall and Move 4(16946)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16946.md)
 - [Break Through the Wall and Move 2(14442)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14442.md)
 - [Break Through the Wall and Move 3(16933)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16933.md)
-- [Escape the Moving Maze(16954)]()
+- [Escape the Moving Maze(16954)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16954.md)
+- [Escape(3055)]()
 
 ### Greedy Algorithm
 
