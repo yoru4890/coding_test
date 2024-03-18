@@ -75,7 +75,8 @@ List of questions
 - [Break Through the Wall and Move 3(16933)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16933.md)
 - [Escape the Moving Maze(16954)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16954.md)
 - [Escape(3055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/3055.md)
-- [Baby Shark(16236)]()
+- [Baby Shark(16236)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16236.md)
+- [Laser Communication(6087)]()
 
 ### Greedy Algorithm
 
