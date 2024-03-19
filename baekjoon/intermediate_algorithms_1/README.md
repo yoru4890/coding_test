@@ -79,9 +79,11 @@ List of questions
 - ⭐[Laser Communication(6087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6087.md)
 - [Prime Path(1963)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1963.md)
 - [Color Blindness(10026)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/10026.md)
-- [Four Operations(14395)]()
+- [Four Operations(14395)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/14395.md)
 
 ### Greedy Algorithm
+
+- [Coin 0(11047)]()
 
 ### Greedy Algorithm (Practice)
 
