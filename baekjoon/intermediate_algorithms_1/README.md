@@ -83,7 +83,8 @@ List of questions
 
 ### Greedy Algorithm
 
-- [Coin 0(11047)]()
+- [Coin 0(11047)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/11047.md)
+- [Meeting Room Assignment(1931)]()
 
 ### Greedy Algorithm (Practice)
 
