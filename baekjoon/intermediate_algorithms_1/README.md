@@ -77,7 +77,8 @@ List of questions
 - [Escape(3055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/3055.md)
 - [Baby Shark(16236)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16236.md)
 - [Laser Communication(6087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6087.md)
-- [Prime Path(1963)]()
+- [Prime Path(1963)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1963.md)
+- [Color Blindness(10026)]()
 
 ### Greedy Algorithm
 
