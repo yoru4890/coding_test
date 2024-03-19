@@ -76,7 +76,8 @@ List of questions
 - [Escape the Moving Maze(16954)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16954.md)
 - [Escape(3055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/3055.md)
 - [Baby Shark(16236)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16236.md)
-- [Laser Communication(6087)]()
+- [Laser Communication(6087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6087.md)
+- [Prime Path(1963)]()
 
 ### Greedy Algorithm
 
