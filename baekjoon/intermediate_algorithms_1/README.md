@@ -84,7 +84,8 @@ List of questions
 ### Greedy Algorithm
 
 - [Coin 0(11047)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/11047.md)
-- [Meeting Room Assignment(1931)]()
+- [Meeting Room Assignment(1931)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1931.md)
+- [ATM(11399)]()
 
 ### Greedy Algorithm (Practice)
 
