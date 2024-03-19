@@ -13,8 +13,8 @@ Contents
 - [Brute Force (Permutation) (Practice)(1/4)](#brute-force-permutation-practice)
 - [Brute Force (Recursion) (Practice)(4/12)](#brute-force-recursion-practice)
 - [Brute Force (Recursion) (Reference)(0/1)](#brute-force-recursion-reference)
-- [Brute Force (Bitmask) (Practice)(~/4)](#brute-force-bitmask-practice)
-- [BFS (Practice)(~/16)](#bfs-practice)
+- [Brute Force (Bitmask) (Practice)(2/4)](#brute-force-bitmask-practice)
+- [BFS (Practice)(1/16)](#bfs-practice)
 - [Greedy Algorithm(~/9)](#greedy-algorithm)
 - [Greedy Algorithm (Practice)(~/7)](#greedy-algorithm-practice)
 - [Greedy Algorithm (Challenge)(~/3)](#greedy-algorithm-challenge)
@@ -76,9 +76,10 @@ List of questions
 - [Escape the Moving Maze(16954)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16954.md)
 - [Escape(3055)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/3055.md)
 - [Baby Shark(16236)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16236.md)
-- [Laser Communication(6087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6087.md)
+- ⭐[Laser Communication(6087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6087.md)
 - [Prime Path(1963)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1963.md)
-- [Color Blindness(10026)]()
+- [Color Blindness(10026)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/10026.md)
+- [Four Operations(14395)]()
 
 ### Greedy Algorithm
 
@@ -108,3 +109,6 @@ The questions I got wrong
 - ⭐[Energy Gathering(16198)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/16198.md)
 - ⭐[N-Queen(9663)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/9663.md)
 - ⭐[Sudoku(2580)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2580.md)
+- ☀️[Marvel Escape 2(13460)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/13460.md)
+- ☀️[2048(Easy)(12100)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/12100.md)
+- ⭐[Laser Communication(6087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6087.md)
