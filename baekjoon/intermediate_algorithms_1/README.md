@@ -89,7 +89,8 @@ List of questions
 - ⭐[Matrix(1080)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1080.md)
 - 🌟🌟[Lightbulb and Switch(2138)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2138.md)
 - ☀️[Coin Flipping(1285)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1285.md)
-- ☀️[Jewel Thief(1202)]()
+- ☀️[Jewel Thief(1202)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1202.md)
+- ⭐[Lecture Tour(2109)]()
 
 ### Greedy Algorithm (Practice)
 
@@ -121,4 +122,5 @@ The questions I got wrong
 - ☀️[2048(Easy)(12100)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/12100.md)
 - ⭐[Laser Communication(6087)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/6087.md)
 - 🌟🌟[Lightbulb and Switch(2138)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2138.md)
-- ☀️[Jewel Thief(1202)]()
+- ☀️[Jewel Thief(1202)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1202.md)
+- ⭐[Lecture Tour(2109)]()
