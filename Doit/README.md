@@ -17,4 +17,5 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 - [문제018 : ATM(11399)](https://github.com/yoru4890/coding_test/blob/main/Doit/11399.md)
 - [문제019 : K번째 수(11004)](https://github.com/yoru4890/coding_test/blob/main/Doit/11004.md)
 - [문제020 : 수 정렬하기 2(2751)](https://github.com/yoru4890/coding_test/blob/main/Doit/2751.md)
-- [문제021 : 버블 소트(1517)]()
+- [문제021 : 버블 소트(1517)](https://github.com/yoru4890/coding_test/blob/main/Doit/1517.md)
+- [문제022 : 수 정렬하기 3(10989)]()
