@@ -19,4 +19,5 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 - [문제020 : 수 정렬하기 2(2751)](https://github.com/yoru4890/coding_test/blob/main/Doit/2751.md)
 - [문제021 : 버블 소트(1517)](https://github.com/yoru4890/coding_test/blob/main/Doit/1517.md)
 - [문제022 : 수 정렬하기 3(10989)](https://github.com/yoru4890/coding_test/blob/main/Doit/10989.md)
-- [문제023 : 연결 요소의 개수(11724)]()
+- [문제023 : 연결 요소의 개수(11724)](https://github.com/yoru4890/coding_test/blob/main/Doit/11724.md)
+- [문제024 : 신기한 소수(2023)]()
