@@ -22,4 +22,5 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 - [문제023 : 연결 요소의 개수(11724)](https://github.com/yoru4890/coding_test/blob/main/Doit/11724.md)
 - [문제024 : 신기한 소수(2023)](https://github.com/yoru4890/coding_test/blob/main/Doit/2023.md)
 - [문제025 : ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/Doit/13023.md)
-- [문제026 : DFS와 BFS(1260)]()
+- [문제026 : DFS와 BFS(1260)](https://github.com/yoru4890/coding_test/blob/main/Doit/1260.md)
+- [문제027 : 미로 탐색(2178)]()
