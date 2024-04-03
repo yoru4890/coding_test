@@ -24,4 +24,5 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 - [문제025 : ABCDE(13023)](https://github.com/yoru4890/coding_test/blob/main/Doit/13023.md)
 - [문제026 : DFS와 BFS(1260)](https://github.com/yoru4890/coding_test/blob/main/Doit/1260.md)
 - [문제027 : 미로 탐색(2178)](https://github.com/yoru4890/coding_test/blob/main/Doit/2178.md)
-- [문제028 : 트리의 지름(1167)]()
+- [문제028 : 트리의 지름(1167)](https://github.com/yoru4890/coding_test/blob/main/Doit/1167.md)
+- [문제029 : 수 찾기(1920)]()
