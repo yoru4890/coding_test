@@ -28,4 +28,5 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 - [문제029 : 수 찾기(1920)](https://github.com/yoru4890/coding_test/blob/main/Doit/1920.md)
 - [문제030 : 기타 레슨(2343)](https://github.com/yoru4890/coding_test/blob/main/Doit/2343.md)
 - [문제031 : K번째 수(1300)](https://github.com/yoru4890/coding_test/blob/main/Doit/1300.md)
-- [문제032 : 동전 0(11047)]()
+- [문제032 : 동전 0(11047)](https://github.com/yoru4890/coding_test/blob/main/Doit/11047.md)
+- [문제033 : 카드 정렬하기(1715)]()
