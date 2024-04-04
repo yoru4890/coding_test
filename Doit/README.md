@@ -26,4 +26,5 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 - [문제027 : 미로 탐색(2178)](https://github.com/yoru4890/coding_test/blob/main/Doit/2178.md)
 - [문제028 : 트리의 지름(1167)](https://github.com/yoru4890/coding_test/blob/main/Doit/1167.md)
 - [문제029 : 수 찾기(1920)](https://github.com/yoru4890/coding_test/blob/main/Doit/1920.md)
-- [문제030 : 기타 레슨(2343)]()
+- [문제030 : 기타 레슨(2343)](https://github.com/yoru4890/coding_test/blob/main/Doit/2343.md)
+- [문제031 : K번째 수(1300)]()
