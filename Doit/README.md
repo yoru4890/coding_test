@@ -31,4 +31,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 - [문제032 : 동전 0(11047)](https://github.com/yoru4890/coding_test/blob/main/Doit/11047.md)
 - [문제033 : 카드 정렬하기(1715)](https://github.com/yoru4890/coding_test/blob/main/Doit/1715.md)
 
-- [문제034 : 수 묶기(1744)]()
+- [문제034 : 수 묶기(1744)](https://github.com/yoru4890/coding_test/blob/main/Doit/1744.md)
+
+- [문제035 : 회의실 배정(1931)]()
