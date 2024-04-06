@@ -33,4 +33,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제034 : 수 묶기(1744)](https://github.com/yoru4890/coding_test/blob/main/Doit/1744.md)
 
-- [문제035 : 회의실 배정(1931)]()
+- [문제035 : 회의실 배정(1931)](https://github.com/yoru4890/coding_test/blob/main/Doit/1931.md)
+
+- [문제036 : 잃어버린 괄호(1541)]()
