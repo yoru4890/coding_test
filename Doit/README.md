@@ -37,4 +37,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제036 : 잃어버린 괄호(1541)](https://github.com/yoru4890/coding_test/blob/main/Doit/1541.md)
 
-- [문제037 : 소수 구하기(1929)]()
+- [문제037 : 소수 구하기(1929)](https://github.com/yoru4890/coding_test/blob/main/Doit/1929.md)
+
+- [문제038 : 거의 소수(1456)]()
