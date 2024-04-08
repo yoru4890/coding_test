@@ -41,4 +41,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제038 : 거의 소수(1456)](https://github.com/yoru4890/coding_test/blob/main/Doit/1456.md)
 
-- [문제039 : 소수&팰린드롬(1747)]()
+- [문제039 : 소수&팰린드롬(1747)](https://github.com/yoru4890/coding_test/blob/main/Doit/1747.md)
+
+- [문제040 : 제곱ㄴㄴ수(1016)]()
