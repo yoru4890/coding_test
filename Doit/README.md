@@ -45,4 +45,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제040 : 제곱ㄴㄴ수(1016)](https://github.com/yoru4890/coding_test/blob/main/Doit/1016.md)
 
-- [문제041: GCD(n, k) = 1(11689)]()
+- [문제041 : GCD(n, k) = 1(11689)](https://github.com/yoru4890/coding_test/blob/main/Doit/11689.md)
+
+- [문제042 : 최소공배수(1934)]()
