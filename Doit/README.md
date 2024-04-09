@@ -49,4 +49,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제042 : 최소공배수(1934)](https://github.com/yoru4890/coding_test/blob/main/Doit/1934.md)
 
-- [문제043 : 최대공약수(1850)]()
+- [문제043 : 최대공약수(1850)](https://github.com/yoru4890/coding_test/blob/main/Doit/1850.md)
+
+- [문제044 : 칵테일(1033)]()
