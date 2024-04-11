@@ -51,4 +51,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제043 : 최대공약수(1850)](https://github.com/yoru4890/coding_test/blob/main/Doit/1850.md)
 
-- [문제044 : 칵테일(1033)]()
+- [문제044 : 칵테일(1033)](https://github.com/yoru4890/coding_test/blob/main/Doit/1033.md)
+
+- [문제045 : 특정 거리의 도시 찾기(18352)]()
