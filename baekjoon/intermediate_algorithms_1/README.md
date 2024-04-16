@@ -95,7 +95,9 @@ List of questions
 
 ### Greedy Algorithm (Practice)
 
-- [Missing Parenthesis(1541)]()
+- [Missing Parenthesis(1541)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1541.md)
+
+- [Number Pairing(1744)]()
 
 ### Greedy Algorithm (Challenge)
 
