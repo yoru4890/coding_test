@@ -15,7 +15,7 @@ Contents
 - [Brute Force (Recursion) (Reference)(0/1)](#brute-force-recursion-reference)
 - [Brute Force (Bitmask) (Practice)(2/4)](#brute-force-bitmask-practice)
 - [BFS (Practice)(1/16)](#bfs-practice)
-- [Greedy Algorithm(~/9)](#greedy-algorithm)
+- [Greedy Algorithm(4/9)](#greedy-algorithm)
 - [Greedy Algorithm (Practice)(~/7)](#greedy-algorithm-practice)
 - [Greedy Algorithm (Challenge)(~/3)](#greedy-algorithm-challenge)
 - [Divide and Conquer(~/3)](#divide-and-conquer)
@@ -91,9 +91,11 @@ List of questions
 - ☀️[Coin Flipping(1285)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1285.md)
 - ☀️[Jewel Thief(1202)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1202.md)
 - ⭐[Lecture Tour(2109)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2109.md)
-- 🌟[Longest Increasing Subsequence 2(12015)]()
+- 🌟[Longest Increasing Subsequence 2(12015)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/12015.md)
 
 ### Greedy Algorithm (Practice)
+
+- [Missing Parenthesis(1541)]()
 
 ### Greedy Algorithm (Challenge)
 
@@ -125,4 +127,4 @@ The questions I got wrong
 - 🌟🌟[Lightbulb and Switch(2138)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2138.md)
 - ☀️[Jewel Thief(1202)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1202.md)
 - ⭐[Lecture Tour(2109)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2109.md)
-🌟[Longest Increasing Subsequence 2(12015)]()
+- 🌟[Longest Increasing Subsequence 2(12015)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/12015.md)
