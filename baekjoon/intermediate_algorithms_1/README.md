@@ -97,7 +97,9 @@ List of questions
 
 - [Missing Parenthesis(1541)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1541.md)
 
-- [Number Pairing(1744)]()
+- [Number Pairing(1744)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1744.md)
+
+- [Competition or Internship(2875)]()
 
 ### Greedy Algorithm (Challenge)
 
