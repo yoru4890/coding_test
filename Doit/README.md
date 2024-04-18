@@ -53,4 +53,8 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제044 : 칵테일(1033)](https://github.com/yoru4890/coding_test/blob/main/Doit/1033.md)
 
-- [문제045 : 특정 거리의 도시 찾기(18352)]()
+- [문제045 : 특정 거리의 도시 찾기(18352)](https://github.com/yoru4890/coding_test/blob/main/Doit/18352.md)
+
+- [문제047 : 효율적인 해킹(1325)]()
+
+- [문제048 : 이분 그래프(1707)]()

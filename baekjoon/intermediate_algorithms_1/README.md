@@ -101,7 +101,7 @@ List of questions
 
 - [Competition or Internship(2875)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2875.md)
 
-- ⭐[Efficient Hacking(1325)]()
+
 
 ### Greedy Algorithm (Challenge)
 
@@ -134,4 +134,3 @@ The questions I got wrong
 - ☀️[Jewel Thief(1202)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1202.md)
 - ⭐[Lecture Tour(2109)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2109.md)
 - 🌟[Longest Increasing Subsequence 2(12015)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/12015.md)
-- ⭐[Efficient Hacking(1325)]()
