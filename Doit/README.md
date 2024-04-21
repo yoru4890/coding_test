@@ -55,6 +55,8 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제045 : 특정 거리의 도시 찾기(18352)](https://github.com/yoru4890/coding_test/blob/main/Doit/18352.md)
 
-- [문제047 : 효율적인 해킹(1325)]()
+- [문제047 : 효율적인 해킹(1325)](https://github.com/yoru4890/coding_test/blob/main/Doit/1325.md)
 
-- [문제048 : 이분 그래프(1707)]()
+- [문제048 : 이분 그래프(1707)](https://github.com/yoru4890/coding_test/blob/main/Doit/1707.md)
+
+- [문제049 : 물통(2251)]()
