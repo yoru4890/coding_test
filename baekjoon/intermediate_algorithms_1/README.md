@@ -101,6 +101,7 @@ List of questions
 
 - [Competition or Internship(2875)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/2875.md)
 
+- [30(10610)]()
 
 
 ### Greedy Algorithm (Challenge)
