@@ -60,3 +60,5 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 - [문제048 : 이분 그래프(1707)](https://github.com/yoru4890/coding_test/blob/main/Doit/1707.md)
 
 - [문제049 : 물통(2251)](https://github.com/yoru4890/coding_test/blob/main/Doit/2251.md)
+
+- [문제050 : 집합의 표현(1717)]()

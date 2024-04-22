@@ -103,7 +103,7 @@ List of questions
 
 - [30(10610)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/10610.md)
 
-- [Sick Knight(1783)]()
+- [Sick Knight(1783)](https://github.com/yoru4890/coding_test/blob/main/baekjoon/intermediate_algorithms_1/1783.md)
 
 
 ### Greedy Algorithm (Challenge)
