@@ -63,4 +63,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제050 : 집합의 표현(1717)](https://github.com/yoru4890/coding_test/blob/main/Doit/1717.md)
 
-- [문제051 : 여행 가자(1976)]()
+- [문제051 : 여행 가자(1976)](https://github.com/yoru4890/coding_test/blob/main/Doit/1976.md)
+
+- [문제052 : 거짓말(1043)]()
