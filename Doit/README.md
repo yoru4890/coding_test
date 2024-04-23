@@ -65,4 +65,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제051 : 여행 가자(1976)](https://github.com/yoru4890/coding_test/blob/main/Doit/1976.md)
 
-- [문제052 : 거짓말(1043)]()
+- [문제052 : 거짓말(1043)](https://github.com/yoru4890/coding_test/blob/main/Doit/1043.md)
+
+- [문제053 : 줄 세우기(2252)]()
