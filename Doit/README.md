@@ -67,4 +67,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제052 : 거짓말(1043)](https://github.com/yoru4890/coding_test/blob/main/Doit/1043.md)
 
-- [문제053 : 줄 세우기(2252)]()
+- [문제053 : 줄 세우기(2252)](https://github.com/yoru4890/coding_test/blob/main/Doit/2252.md)
+
+- [문제054 : 게임 개발(1516)]()
