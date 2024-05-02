@@ -71,4 +71,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제054 : 게임 개발(1516)](https://github.com/yoru4890/coding_test/blob/main/Doit/1516.md)
 
-- [문제055 : 임계 경로 구하기(1948)]()
+- [문제055 : 임계 경로 구하기(1948)](https://github.com/yoru4890/coding_test/blob/main/Doit/1948.md)
+
+- [문제056 : 최단경로(1753)]()
