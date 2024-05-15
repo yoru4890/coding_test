@@ -75,4 +75,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제056 : 최단경로(1753)](https://github.com/yoru4890/coding_test/blob/main/Doit/1753.md)
 
-- [문제057 : 최소비용 구하기(1916)]()
+- [문제057 : 최소비용 구하기(1916)](https://github.com/yoru4890/coding_test/blob/main/Doit/1916.md)
+
+- [문제058 : K번째 최단경로 찾기(1854)]()
