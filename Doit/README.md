@@ -77,4 +77,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제057 : 최소비용 구하기(1916)](https://github.com/yoru4890/coding_test/blob/main/Doit/1916.md)
 
-- [문제058 : K번째 최단경로 찾기(1854)]()
+- [문제058 : K번째 최단경로 찾기(1854)](https://github.com/yoru4890/coding_test/blob/main/Doit/1854.md)
+
+- [문제059 : 타임머신(11657)]()
