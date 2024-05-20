@@ -85,4 +85,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제061 : 플로이드(11404)](https://github.com/yoru4890/coding_test/blob/main/Doit/11404.md)
 
-- [문제062 : 경로 찾기(11403)]()
+- [문제062 : 경로 찾기(11403)](https://github.com/yoru4890/coding_test/blob/main/Doit/11403.md)
+
+- [문제063 : 케빈 베이컨의 6단계 법칙(1389)]()
