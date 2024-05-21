@@ -87,4 +87,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제062 : 경로 찾기(11403)](https://github.com/yoru4890/coding_test/blob/main/Doit/11403.md)
 
-- [문제063 : 케빈 베이컨의 6단계 법칙(1389)]()
+- [문제063 : 케빈 베이컨의 6단계 법칙(1389)](https://github.com/yoru4890/coding_test/blob/main/Doit/1389.md)
+
+- [문제064 : 최소 스패닝 트리(1197)]()
