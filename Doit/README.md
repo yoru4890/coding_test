@@ -91,4 +91,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제064 : 최소 스패닝 트리(1197)](https://github.com/yoru4890/coding_test/blob/main/Doit/1197.md)
 
-- [문제065 : 다리 만들기 2(17472)]()
+- [문제065 : 다리 만들기 2(17472)](https://github.com/yoru4890/coding_test/blob/main/Doit/17472.md)
+
+- [문제 066 : 불우이웃돕기(1414)]()
