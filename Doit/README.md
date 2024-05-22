@@ -97,4 +97,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 067 : 트리의 부모 찾기(11725)](https://github.com/yoru4890/coding_test/blob/main/Doit/11725.md)
 
-- [문제 068 : 트리(1068)]()
+- [문제 068 : 트리(1068)](https://github.com/yoru4890/coding_test/blob/main/Doit/1068.md)
+
+- [문제 069 : 문자열 집합(14425)]()
