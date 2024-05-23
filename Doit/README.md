@@ -99,4 +99,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 068 : 트리(1068)](https://github.com/yoru4890/coding_test/blob/main/Doit/1068.md)
 
-- [문제 069 : 문자열 집합(14425)]()
+- [문제 069 : 문자열 집합(14425)](https://github.com/yoru4890/coding_test/blob/main/Doit/14425.md)
+
+- [문제 070 : 트리 순회(1991)]()
