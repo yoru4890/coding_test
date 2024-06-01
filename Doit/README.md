@@ -105,4 +105,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 071 : 구간 합 구하기(2042)](https://github.com/yoru4890/coding_test/blob/main/Doit/2042.md)
 
-- [문제 072 : 최솟값(10868)]()
+- [문제 072 : 최솟값(10868)](https://github.com/yoru4890/coding_test/blob/main/Doit/10868.md)
+
+- [문제 073 : 구간 곱 구하기(11505)]()
