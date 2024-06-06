@@ -107,4 +107,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 072 : 최솟값(10868)](https://github.com/yoru4890/coding_test/blob/main/Doit/10868.md)
 
-- [문제 073 : 구간 곱 구하기(11505)]()
+- [문제 073 : 구간 곱 구하기(11505)](https://github.com/yoru4890/coding_test/blob/main/Doit/11505.md)
+
+- [문제 074 : LCA(11437)]()
