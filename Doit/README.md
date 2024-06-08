@@ -111,4 +111,4 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 074 : LCA(11437)](https://github.com/yoru4890/coding_test/blob/main/Doit/11437.md)
 
-- [문제 075 : LCA2(11438)]()
+- [문제 075 : LCA2(11438)](https://github.com/yoru4890/coding_test/blob/main/Doit/11438.md)
