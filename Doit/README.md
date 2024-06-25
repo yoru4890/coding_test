@@ -119,4 +119,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 078 : 부녀회장이 될테야(2775)](https://github.com/yoru4890/coding_test/blob/main/Doit/2775.md)
 
-- [문제 079 : 다리 놓기(1010)]()
+- [문제 079 : 다리 놓기(1010)](https://github.com/yoru4890/coding_test/blob/main/Doit/1010.md)
+
+- [문제 080 : 조약돌 꺼내기(13251)]()
