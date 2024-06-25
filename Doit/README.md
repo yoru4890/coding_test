@@ -113,6 +113,8 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 075 : LCA2(11438)](https://github.com/yoru4890/coding_test/blob/main/Doit/11438.md)
 
-- [문제 076 : 이항 계수1(11050)]()
+- [문제 076 : 이항 계수1(11050)](https://github.com/yoru4890/coding_test/blob/main/Doit/11050.md)
 
-- [문제 077 : 이항 계수2(11051)]()
+- [문제 077 : 이항 계수2(11051)](https://github.com/yoru4890/coding_test/blob/main/Doit/11051.md)
+
+- [문제 078 : 부녀회장이 될테야(2775)]()
