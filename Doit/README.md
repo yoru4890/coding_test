@@ -125,4 +125,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 081 : 순열의 순서(1722)](https://github.com/yoru4890/coding_test/blob/main/Doit/1722.md)
 
-- [문제 082 : 사전(1256)]()
+- [문제 082 : 사전(1256)](https://github.com/yoru4890/coding_test/blob/main/Doit/1256.md)
+
+- [문제 083 : 선물 전달(1947)]()
