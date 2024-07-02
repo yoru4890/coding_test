@@ -129,4 +129,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 083 : 선물 전달(1947)](https://github.com/yoru4890/coding_test/blob/main/Doit/1947.md)
 
-- [문제 084 : 1로 만들기(1463)]()
+- [문제 084 : 1로 만들기(1463)](https://github.com/yoru4890/coding_test/blob/main/Doit/1463.md)
+
+- [문제 085 : 퇴사(14501)]()
