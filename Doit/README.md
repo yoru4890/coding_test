@@ -131,4 +131,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 084 : 1로 만들기(1463)](https://github.com/yoru4890/coding_test/blob/main/Doit/1463.md)
 
-- [문제 085 : 퇴사(14501)]()
+- [문제 085 : 퇴사(14501)](https://github.com/yoru4890/coding_test/blob/main/Doit/14501.md)
+
+- [문제 086 : 이친수(2193)]()
