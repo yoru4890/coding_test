@@ -133,4 +133,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 085 : 퇴사(14501)](https://github.com/yoru4890/coding_test/blob/main/Doit/14501.md)
 
-- [문제 086 : 이친수(2193)]()
+- [문제 086 : 이친수(2193)](https://github.com/yoru4890/coding_test/blob/main/Doit/2193.md)
+
+- [문제 087 : 2×n 타일링(11726)]()
