@@ -137,4 +137,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 087 : 2×n 타일링(11726)](https://github.com/yoru4890/coding_test/blob/main/Doit/11726.md)
 
-- [문제 088 : 쉬운 계단 수(10844)]()
+- [문제 088 : 쉬운 계단 수(10844)](https://github.com/yoru4890/coding_test/blob/main/Doit/10844.md)
+
+- [문제 089 : 연속합 2(13398)]()
