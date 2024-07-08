@@ -139,4 +139,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 088 : 쉬운 계단 수(10844)](https://github.com/yoru4890/coding_test/blob/main/Doit/10844.md)
 
-- [문제 089 : 연속합 2(13398)]()
+- [문제 089 : 연속합 2(13398)](https://github.com/yoru4890/coding_test/blob/main/Doit/13398.md)
+
+- [문제 090 : LCS 2(9252)]()
