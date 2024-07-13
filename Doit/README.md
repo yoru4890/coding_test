@@ -143,4 +143,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 090 : LCS 2(9252)](https://github.com/yoru4890/coding_test/blob/main/Doit/9252.md)
 
-- [문제 091 : 가장 큰 정사각형(1915)]()
+- [문제 091 : 가장 큰 정사각형(1915)](https://github.com/yoru4890/coding_test/blob/main/Doit/1915.md)
+
+- [문제 092 : 고층 빌딩(1328)]()
