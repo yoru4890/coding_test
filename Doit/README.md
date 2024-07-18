@@ -151,4 +151,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 094 : 행렬 곱셈 순서(11049)](https://github.com/yoru4890/coding_test/blob/main/Doit/11049.md)
 
-- [문제 095 : 외판원 순회(2098)]()
+- [문제 095 : 외판원 순회(2098)](https://github.com/yoru4890/coding_test/blob/main/Doit/2098.md)
+
+- [문제 096 : 가장 긴 증가하는 부분 수열 5(14003)]()
