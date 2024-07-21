@@ -155,4 +155,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 096 : 가장 긴 증가하는 부분 수열 5(14003)](https://github.com/yoru4890/coding_test/blob/main/Doit/14003.md)
 
-- [문제 097 : CCW(11758)]()
+- [문제 097 : CCW(11758)](https://github.com/yoru4890/coding_test/blob/main/Doit/11758.md)
+
+- [문제 098 : 선분 교차 2(17387)]()
