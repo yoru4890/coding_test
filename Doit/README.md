@@ -159,4 +159,6 @@ Do it 알고리즘 코딩테스트 책에 있는 문제모음
 
 - [문제 098 : 선분 교차 2(17387)](https://github.com/yoru4890/coding_test/blob/main/Doit/17387.md)
 
-- [문제 099 : 선분 그룹(2162)]()
+- [문제 099 : 선분 그룹(2162)](https://github.com/yoru4890/coding_test/blob/main/Doit/2162.md)
+
+- [문제 100 : 다각형의 면적(2166)]()
